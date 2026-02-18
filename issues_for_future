@@ -16,3 +16,8 @@ calculate_db_hash() currently hashes the gene tiers file only. That’s useful, 
 - implications tables
 - gene tiers config
 Right now, the value can change without the core DB changing (or vice versa).
+
+4) HLA module placeholder for now
+- modules/hla_call.nf still outputs placeholder results and warns no actual HLA typing is performed.
+Keep enable_hla default false until adding hla_typing
+
