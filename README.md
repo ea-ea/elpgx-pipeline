@@ -4,7 +4,6 @@ Clinical-grade Pharmacogenetics (PGx) NGS Pipeline for predicting drug response 
 
 **Version:** 1.1.0
 **Author:** Elif Arslan
-**License:** MIT
 **PGx Database:** CPIC v1.24
 
 ## Overview
