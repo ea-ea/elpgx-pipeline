@@ -286,7 +286,7 @@ pytest tests/unit/test_allele_caller.py -v
 - **Phenotype blocking**: Strategy-based rules prevent reporting uncertain phenotypes (e.g., CYP2D6)
 - **Full provenance**: Git commit, tool versions, reference checksums tracked in every report
 - **Schema validation**: Pydantic models ensure report structure integrity
-- **Scalable**: Nextflow enables HPC/cloud execution (AWS Batch, Seven Bridges)
+- **Scalable**: Nextflow enables HPC/cloud execution (e.g., AWS Batch)
 
 ## References
 
