@@ -4,7 +4,6 @@
 Right now, a schema validation failure prints WARNING and continues. In a clinical/production framing, if --strict_validation is enabled, this should sys.exit(1) to hard-fail the run.
 
 2) Provenance says “Docker digests” but I’m recording tags
-
 The module header comments say “Docker digests,” but the implementation records tags like elifffarslan/elpgx-python:${pipeline_version} and broadinstitute/gatk:4.5.0.0. Tags are not immutable; digests are. Either:
 - record digests, or
 - rename the field/description to “image tags (optionally digests)” to avoid over-claiming.
@@ -17,7 +16,53 @@ calculate_db_hash() currently hashes the gene tiers file only. That’s useful, 
 - gene tiers config
 Right now, the value can change without the core DB changing (or vice versa).
 
-4) HLA module placeholder for now
-- modules/hla_call.nf still outputs placeholder results and warns no actual HLA typing is performed.
+4) HLA module placeholder for now !
+modules/hla_call.nf still outputs placeholder results and warns no actual HLA typing is performed.
 Keep enable_hla default false until adding hla_typing
+
+## Additional Improvements:
+
+Remaining issues (minor, but worth tightening)
+1) *1/*1 calls with 0.9 confidence may still be too optimistic!
+If saying “no defining variants” but still giving score: 0.9.
+In clinical practice, a “reference/normal” diplotype requires two things:
+- No defining variants observed and
+- The gene region is sufficiently covered/quality-passed
+
+Right now, for *1/*1 results I don’t provide coverage stats, and still assign high confidence.
+
+*Best fix (minimal):
+- For NO_DEFINING_VARIANTS, set confidence to something like 0.85 unless I also report gene coverage.
+- Or better: add gene_qc block per gene (mean depth, % bases ≥20x) and keep 0.9 only when QC passes.
+
+2) CYP2D6 result says “Normal Metabolizer” but warnings say “informational only”
+This is internally inconsistent:
+Result: CYP2D6 phenotype = “Normal Metabolizer”
+
+Warnings: “Informational only… ultrarapid may be missed… deletions/duplications cannot be detected”
+
+A clinician/product reviewer would ask: If it’s informational only, why is this giving a metabolizer phenotype at all?
+
+*Best fix (recommended):
+ For CYP2D6 (when CNV not supported):
+- Change phenotype to “Indeterminate” or “Normal Metabolizer (Provisional)”
+- Or add a field like clinical_status: "informational_only" / actionability: "limited"
+- Or add a recommendation: "Confirmatory testing recommended if prescribing CYP2D6-critical drugs"
+That aligns the UI/decision-support layer with my caution statement.
+
+3) Warnings are duplicated conceptually (can be consolidated)
+I have 3 warnings that overlap:
+- CNV not supported
+- hybrid not supported
+- informational only with detailed implications
+
+*I can compress into one structured warning, e.g.:
+CYP2D6_LIMITATIONS: CNV (*5, duplications) and hybrids not supported → results assume diploid; confirm if high-stakes prescribing.
+Cleaner, more professional.
+
+4) pgx_db_hash looks like a short hash
+It’s fine, but if this is meant to be audit-grade:
+- specify what is hashed (files included)
+- use a full SHA256 (or at least 16+ bytes hex)
+ Right now it’s OK for assignment, but “clinical-grade” would benefit from stronger hashing semantics.
 
