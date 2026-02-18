@@ -15,7 +15,7 @@ ElPGx analyzes aligned BAM/CRAM sequencing data to identify pharmacogenomic star
 
 ### Input
 - **Aligned BAM/CRAM file** (coordinate-sorted, indexed)
-- **Reference genome:** GRCh38 or GRCh37 FASTA with `.fai` index and `.dict` dictionary
+- **Reference genome:** GRCh38 or GRCh37 FASTA with `.fai` index and `.dict` dictionary in the same directory
 
 ### Output
 A structured **JSON report** (schema v1.1.0) containing:
