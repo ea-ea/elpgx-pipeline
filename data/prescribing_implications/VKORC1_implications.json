@@ -1,0 +1,34 @@
+{
+  "gene": "VKORC1",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 1,
+  "level_a_pairs": 1,
+  "level_b_pairs": 0,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "warfarin",
+          "drug_id": "RxNorm:11289",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": null
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: warfarin. Genetic testing recommended before prescribing."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "warfarin",
+      "drug_id": "RxNorm:11289",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": null
+    }
+  ]
+}

@@ -1,0 +1,6906 @@
+{
+  "gene": "RYR1",
+  "chromosome": "chr19",
+  "gene_tier": "group3",
+  "biomarker_type": "drug_target",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs193922805",
+      "chrom": "chr19",
+      "pos": 38499697,
+      "ref": "T",
+      "alt": "G",
+      "name": "c.7090T>G",
+      "protein_location": "p.F2364V"
+    },
+    {
+      "rsid": "rs751180702",
+      "chrom": "chr19",
+      "pos": 38502670,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.7778G>A",
+      "protein_location": "p.R2593H"
+    },
+    {
+      "rsid": "rs193922824",
+      "chrom": "chr19",
+      "pos": 38502679,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.7787C>T",
+      "protein_location": "p.T2596I"
+    },
+    {
+      "rsid": "rs748575133",
+      "chrom": "chr19",
+      "pos": 38502708,
+      "ref": "T",
+      "alt": "A",
+      "name": "c.7816T>A",
+      "protein_location": "p.C2606S"
+    },
+    {
+      "rsid": "rs914804033",
+      "chrom": "chr19",
+      "pos": 38502923,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.7879G>C; c.7879G>A",
+      "protein_location": "p.V2627L; p.V2627M"
+    },
+    {
+      "rsid": "rs193922826",
+      "chrom": "chr19",
+      "pos": 38504319,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.8026C>T",
+      "protein_location": "p.R2676W"
+    },
+    {
+      "rsid": "rs139161723",
+      "chrom": "chr19",
+      "pos": 38440830,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.131G>A",
+      "protein_location": "p.R44H"
+    },
+    {
+      "rsid": "rs193922749",
+      "chrom": "chr19",
+      "pos": 38440851,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.152C>A",
+      "protein_location": "p.T51N"
+    },
+    {
+      "rsid": "rs193922750",
+      "chrom": "chr19",
+      "pos": 38444187,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.463C>A",
+      "protein_location": "p.Q155K"
+    },
+    {
+      "rsid": "rs193922751",
+      "chrom": "chr19",
+      "pos": 38444191,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.467G>A",
+      "protein_location": "p.R156K"
+    },
+    {
+      "rsid": "rs193922752",
+      "chrom": "chr19",
+      "pos": 38444203,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.479A>G",
+      "protein_location": "p.E160G"
+    },
+    {
+      "rsid": "rs118192161",
+      "chrom": "chr19",
+      "pos": 38444211,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.487C>T",
+      "protein_location": "p.R163C"
+    },
+    {
+      "rsid": "rs193922762",
+      "chrom": "chr19",
+      "pos": 38448673,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.982C>T",
+      "protein_location": "p.R328W"
+    },
+    {
+      "rsid": "rs121918592",
+      "chrom": "chr19",
+      "pos": 38448712,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.1021G>A; c.1021G>C",
+      "protein_location": "p.G341R; p.G341R"
+    },
+    {
+      "rsid": "rs781126470",
+      "chrom": "chr19",
+      "pos": 38504347,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.8054C>T",
+      "protein_location": "p.S2685F"
+    },
+    {
+      "rsid": "rs193922827",
+      "chrom": "chr19",
+      "pos": 38504868,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.8188G>C",
+      "protein_location": "p.D2730H"
+    },
+    {
+      "rsid": "rs118192160",
+      "chrom": "chr19",
+      "pos": 38442361,
+      "ref": "G",
+      "alt": "T",
+      "name": "c.178G>A; c.178G>T",
+      "protein_location": "p.D60N; p.D60Y"
+    },
+    {
+      "rsid": "rs995399438",
+      "chrom": "chr19",
+      "pos": 38442373,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.190T>C",
+      "protein_location": "p.C64R"
+    },
+    {
+      "rsid": "rs193922744",
+      "chrom": "chr19",
+      "pos": 38433867,
+      "ref": "T",
+      "alt": "G",
+      "name": "c.38T>G",
+      "protein_location": "p.L13R"
+    },
+    {
+      "rsid": "rs193922745",
+      "chrom": "chr19",
+      "pos": 38440750,
+      "ref": null,
+      "alt": null,
+      "name": "c.51_53del",
+      "protein_location": "p.D17del"
+    },
+    {
+      "rsid": "rs193922746",
+      "chrom": "chr19",
+      "pos": 38440796,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.97A>G",
+      "protein_location": "p.K33E"
+    },
+    {
+      "rsid": "rs193922747",
+      "chrom": "chr19",
+      "pos": 38440802,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.103T>C",
+      "protein_location": "p.C35R"
+    },
+    {
+      "rsid": "rs118192113",
+      "chrom": "chr19",
+      "pos": 38442395,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.212C>A",
+      "protein_location": "p.S71Y"
+    },
+    {
+      "rsid": "rs186983396",
+      "chrom": "chr19",
+      "pos": 38442434,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.251C>T",
+      "protein_location": "p.T84M"
+    },
+    {
+      "rsid": "rs142474192",
+      "chrom": "chr19",
+      "pos": 38443790,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.418G>A",
+      "protein_location": "p.A140T"
+    },
+    {
+      "rsid": "rs193922754",
+      "chrom": "chr19",
+      "pos": 38444217,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.493G>A",
+      "protein_location": "p.G165R"
+    },
+    {
+      "rsid": "rs193922755",
+      "chrom": "chr19",
+      "pos": 38444220,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.496G>A",
+      "protein_location": "p.D166N"
+    },
+    {
+      "rsid": "rs193922756",
+      "chrom": "chr19",
+      "pos": 38444221,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.497A>G",
+      "protein_location": "p.D166G"
+    },
+    {
+      "rsid": "rs193922815",
+      "chrom": "chr19",
+      "pos": 38500637,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.7355G>A; c.7355G>C",
+      "protein_location": "p.R2452Q; p.R2452P"
+    },
+    {
+      "rsid": "rs193922817",
+      "chrom": "chr19",
+      "pos": 38500863,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.7487C>T",
+      "protein_location": "p.P2496L"
+    },
+    {
+      "rsid": "rs118192178",
+      "chrom": "chr19",
+      "pos": 38500898,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.7522C>T; c.7522C>G",
+      "protein_location": "p.R2508C; p.R2508G"
+    },
+    {
+      "rsid": "rs193922818",
+      "chrom": "chr19",
+      "pos": 38500899,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.7523G>A",
+      "protein_location": "p.R2508H"
+    },
+    {
+      "rsid": "rs193922819",
+      "chrom": "chr19",
+      "pos": 38500904,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.7528T>C",
+      "protein_location": "p.Y2510H"
+    },
+    {
+      "rsid": "rs112196644",
+      "chrom": "chr19",
+      "pos": 38504869,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.8189A>G",
+      "protein_location": "p.D2730G"
+    },
+    {
+      "rsid": "rs147303895",
+      "chrom": "chr19",
+      "pos": 38511590,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.9152G>A",
+      "protein_location": "p.R3051H"
+    },
+    {
+      "rsid": "rs193922895",
+      "chrom": "chr19",
+      "pos": 38585951,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.14817C>A",
+      "protein_location": "p.D4939E"
+    },
+    {
+      "rsid": "rs118192158",
+      "chrom": "chr19",
+      "pos": 38585952,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.14818G>A",
+      "protein_location": "p.A4940T"
+    },
+    {
+      "rsid": "rs193922748",
+      "chrom": "chr19",
+      "pos": 38440829,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.130C>T",
+      "protein_location": "p.R44C"
+    },
+    {
+      "rsid": "rs761616815",
+      "chrom": "chr19",
+      "pos": 38444250,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.526G>A",
+      "protein_location": "p.E176K"
+    },
+    {
+      "rsid": "rs193922790",
+      "chrom": "chr19",
+      "pos": 38494621,
+      "ref": "A",
+      "alt": "T",
+      "name": "c.6544A>T",
+      "protein_location": "p.I2182F"
+    },
+    {
+      "rsid": "rs901087791",
+      "chrom": "chr19",
+      "pos": 38455269,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.1475G>A",
+      "protein_location": "p.R492H"
+    },
+    {
+      "rsid": "rs118192162",
+      "chrom": "chr19",
+      "pos": 38455359,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.1565A>C; c.1565A>G",
+      "protein_location": "p.Y522S; p.Y522C"
+    },
+    {
+      "rsid": "rs193922757",
+      "chrom": "chr19",
+      "pos": 38444253,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.529C>T",
+      "protein_location": "p.R177C"
+    },
+    {
+      "rsid": "rs727504129",
+      "chrom": "chr19",
+      "pos": 38446481,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.641C>T",
+      "protein_location": "p.T214M"
+    },
+    {
+      "rsid": "rs193922759",
+      "chrom": "chr19",
+      "pos": 38446492,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.652G>A",
+      "protein_location": "p.V218I"
+    },
+    {
+      "rsid": "rs112596687",
+      "chrom": "chr19",
+      "pos": 38446517,
+      "ref": "T",
+      "alt": "A",
+      "name": "c.677T>A",
+      "protein_location": "p.M226K"
+    },
+    {
+      "rsid": "rs193922760",
+      "chrom": "chr19",
+      "pos": 38446520,
+      "ref": "A",
+      "alt": "T",
+      "name": "c.680A>T",
+      "protein_location": "p.D227V"
+    },
+    {
+      "rsid": "rs1801086",
+      "chrom": "chr19",
+      "pos": 38446710,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.742G>A; c.742G>C",
+      "protein_location": "p.G248R; p.G248R"
+    },
+    {
+      "rsid": "rs752652072",
+      "chrom": "chr19",
+      "pos": 38448500,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.946C>T",
+      "protein_location": "p.R316C"
+    },
+    {
+      "rsid": "rs193922766",
+      "chrom": "chr19",
+      "pos": 38451843,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.1202G>T; c.1202G>A",
+      "protein_location": "p.R401L; p.R401H"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "Reference",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "c.10042C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001617,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.412e-05
+      }
+    },
+    {
+      "allele": "c.10043G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10097G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.002553,
+        "American": null,
+        "European": 0.001661,
+        "East Asian": null,
+        "Near Eastern": 0.001441,
+        "Central/South Asian": 0.0008282,
+        "Sub-Saharan African": 0.0001448
+      }
+    },
+    {
+      "allele": "c.10100A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1021G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1021G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10229C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10237A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1024G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10252A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.103T>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10556C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10616G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0002625,
+        "American": null,
+        "European": 0.0027869444,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.000416,
+        "Sub-Saharan African": 0.0005563
+      }
+    },
+    {
+      "allele": "c.10747G>C",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.007591,
+        "American": 0.002193,
+        "European": 0.018851086,
+        "East Asian": 0.0003858,
+        "Near Eastern": 0.000288,
+        "Central/South Asian": 0.02488,
+        "Sub-Saharan African": 0.003764
+      }
+    },
+    {
+      "allele": "c.10750G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.10891G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1100G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1100G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11086G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11120G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11126C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11132C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11266C>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.07252,
+        "American": null,
+        "European": 0.019045949,
+        "East Asian": 0.05963,
+        "Near Eastern": 0.0018488563,
+        "Central/South Asian": 0.03271,
+        "Sub-Saharan African": 0.00777
+      }
+    },
+    {
+      "allele": "c.11314C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.547e-05,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11315G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.11416G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1144C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11518G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": 0.0003846,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002072,
+        "Sub-Saharan African": 0.000145
+      }
+    },
+    {
+      "allele": "c.11708G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11723A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11748T>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11798A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.002551,
+        "American": null,
+        "European": 0.001647,
+        "East Asian": null,
+        "Near Eastern": 0.001441,
+        "Central/South Asian": 0.0008288,
+        "Sub-Saharan African": 9.66e-05
+      }
+    },
+    {
+      "allele": "c.11813G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11947C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11953T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11958C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.11969G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.119G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1201C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1201C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1201C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.12028G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 9.436e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 9.667e-05
+      }
+    },
+    {
+      "allele": "c.1202G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1202G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12064A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1209C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12115A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12121C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12149C>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12242C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0003275,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12310G>C",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12355A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.941e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.12383C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12398A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.549e-05,
+        "American": null,
+        "European": 0.0001029,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002075,
+        "Sub-Saharan African": 2.412e-05
+      }
+    },
+    {
+      "allele": "c.12406C>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12413T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12532G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12533G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12553G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0008509,
+        "American": null,
+        "European": 0.0005145,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001448
+      }
+    },
+    {
+      "allele": "c.12689T>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12700G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12700G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12848A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.000199,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.12881C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0009516,
+        "American": null,
+        "European": 0.0002127,
+        "East Asian": null,
+        "Near Eastern": 0.006452,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.01471
+      }
+    },
+    {
+      "allele": "c.12884C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0006122,
+        "American": null,
+        "European": 0.0030186172,
+        "East Asian": 0.0009812,
+        "Near Eastern": 0.0002953,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.00136
+      }
+    },
+    {
+      "allele": "c.130C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.131G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13505A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 5.88e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.13513G>C",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0019,
+        "American": null,
+        "European": 0.0050225807,
+        "East Asian": null,
+        "Near Eastern": 0.004899,
+        "Central/South Asian": 0.00207,
+        "Sub-Saharan African": 0.001231
+      }
+    },
+    {
+      "allele": "c.13672C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13673G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.941e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13702C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13760C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 5.879e-05,
+        "East Asian": null,
+        "Near Eastern": 0.0002884,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13913G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13918A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13934G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0001314,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": 0.002118,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.418e-05
+      }
+    },
+    {
+      "allele": "c.13990T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.481e-05,
+        "East Asian": null,
+        "Near Eastern": 0.0005784,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.13994_13995delTCinsCT",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14002C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 9.414e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14051T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1411C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14126C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.0001928,
+        "Near Eastern": 0.001442,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14168G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0001965,
+        "American": null,
+        "European": 7.349e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.827e-05
+      }
+    },
+    {
+      "allele": "c.14186A>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14197T>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14201G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14209C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.941e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14210G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1422G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14270G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0002352,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 7.241e-05
+      }
+    },
+    {
+      "allele": "c.14364+1G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14387A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14422_14423delinsAA",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14424C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14449A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14458G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14458G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14471T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14477C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14497C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14509C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14510delA",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14512C>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14524G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": 0.0008641,
+        "Central/South Asian": 0.000207,
+        "Sub-Saharan African": 0.0002655
+      }
+    },
+    {
+      "allele": "c.14539G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1453A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0003276,
+        "American": null,
+        "European": 0.0005588,
+        "East Asian": 0.0001925,
+        "Near Eastern": 0.003165,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001933
+      }
+    },
+    {
+      "allele": "c.14545G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.14558C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14567C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14581C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14582G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1459C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1460T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14627A>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14639T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14678G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14680G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14693T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1475G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 8.823e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001208
+      }
+    },
+    {
+      "allele": "c.14782A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14803G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14813T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14814C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14817C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14818G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14825G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14879T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.14918C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 4.41e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.14968A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.15059G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.15060G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.152C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001323,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.1553T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.941e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1565A>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1565A>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1589G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 7.351e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1597C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1597C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.1598G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001764,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.000628
+      }
+    },
+    {
+      "allele": "c.1615T>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1615T>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1630G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1654C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.178G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.475e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.178G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1834G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.1840C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.00020354411,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.416e-05
+      }
+    },
+    {
+      "allele": "c.1841G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.190T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2050G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2122G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.00094113953,
+        "East Asian": null,
+        "Near Eastern": 0.00346,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001207
+      }
+    },
+    {
+      "allele": "c.212C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2447C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.411e-05
+      }
+    },
+    {
+      "allele": "c.251C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.472e-05,
+        "East Asian": 0.0009731,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2537C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2654G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.545e-05,
+        "American": null,
+        "European": 0.0002205,
+        "East Asian": 0.0003857,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0004146,
+        "Sub-Saharan African": 7.237e-05
+      }
+    },
+    {
+      "allele": "c.2797G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0004581,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": 0.003165,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.004319
+      }
+    },
+    {
+      "allele": "c.2924G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.2996G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.547e-05,
+        "American": null,
+        "European": 0.0001176,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3095G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0002646,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.829e-05
+      }
+    },
+    {
+      "allele": "c.3127C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": 0.0002882,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.3166G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3166G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3172G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3224G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.3418C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.827e-05
+      }
+    },
+    {
+      "allele": "c.3527C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0006219,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3656A>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.3667G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.38T>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.4024A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.01629,
+        "American": null,
+        "European": 0.0005883,
+        "East Asian": null,
+        "Near Eastern": 0.0023787767,
+        "Central/South Asian": 0.001244,
+        "Sub-Saharan African": 0.1514
+      }
+    },
+    {
+      "allele": "c.4178A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.001703,
+        "American": null,
+        "European": 0.0043866965,
+        "East Asian": null,
+        "Near Eastern": 0.0002882,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.001086
+      }
+    },
+    {
+      "allele": "c.418G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0002058,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.4400A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.49e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.455C>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.463C>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.467G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.4711A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.002684,
+        "American": null,
+        "European": 0.001618,
+        "East Asian": null,
+        "Near Eastern": 0.001441,
+        "Central/South Asian": 0.0008278,
+        "Sub-Saharan African": 9.656e-05
+      }
+    },
+    {
+      "allele": "c.4747C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.00012714975,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.4763C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 5.88e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002071,
+        "Sub-Saharan African": 0.000169
+      }
+    },
+    {
+      "allele": "c.4775C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.479A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.487C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.488G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.488G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.493G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.496G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.497A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5024T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5033A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.54e-05,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5036G>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.000327,
+        "American": null,
+        "European": 0.0017036498,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001206
+      }
+    },
+    {
+      "allele": "c.5132A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.827e-05
+      }
+    },
+    {
+      "allele": "c.5183C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5186T>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.51_53del",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.526G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.83e-05
+      }
+    },
+    {
+      "allele": "c.528G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.529C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5317C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.01348,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002069,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.533A>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.533A>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5341T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.941e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5360C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.01753,
+        "American": 0.02632,
+        "European": 0.02158376,
+        "East Asian": 0.0001923,
+        "Near Eastern": 0.029322615,
+        "Central/South Asian": 0.04845,
+        "Sub-Saharan African": 0.004607
+      }
+    },
+    {
+      "allele": "c.5440A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5441T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.5890C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6037A>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6178G>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.05649,
+        "American": 0.0307,
+        "European": 0.06447168,
+        "East Asian": 0.00443,
+        "Near Eastern": 0.09540812,
+        "Central/South Asian": 0.1603,
+        "Sub-Saharan African": 0.01248
+      }
+    },
+    {
+      "allele": "c.625G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6302T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": 0.004228129,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.6304G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6349G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6377G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6387C>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6388G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.0001925,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.641C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001911,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001206
+      }
+    },
+    {
+      "allele": "c.6478G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": 0.0001922,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0004825
+      }
+    },
+    {
+      "allele": "c.6487C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6488G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6488G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6488G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6502G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.652G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6544A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6548G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6599C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": 0.0001931,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6612C>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6617C>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6617C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 6.357385e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.6628G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6635T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6640G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001447
+      }
+    },
+    {
+      "allele": "c.6670C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001029,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0006211,
+        "Sub-Saharan African": 4.826e-05
+      }
+    },
+    {
+      "allele": "c.6671G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.547e-05,
+        "American": null,
+        "European": 7.35e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.000207,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6710G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6742C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.545e-05,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": 0.0002884,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6743G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 4.41e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6757C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.677T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.680A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6838G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 7.349e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.412e-05
+      }
+    },
+    {
+      "allele": "c.6847A>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.6961A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.545e-05,
+        "American": null,
+        "European": 0.00091547164,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0002895
+      }
+    },
+    {
+      "allele": "c.7007G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 9.409e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7018T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7025A>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0005235,
+        "American": null,
+        "European": 0.0016278748,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.001243,
+        "Sub-Saharan African": 0.0004104
+      }
+    },
+    {
+      "allele": "c.7032G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7035C>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7036G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7042_7044delGAG",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7043A>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.829e-05
+      }
+    },
+    {
+      "allele": "c.7048G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7060G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7063C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002075,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7073T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7075C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.543e-05,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.414e-05
+      }
+    },
+    {
+      "allele": "c.7076G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.942e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7084G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7085A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7089C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7090T>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7097C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7099G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.543e-05,
+        "American": null,
+        "European": 4.411e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7112A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7123G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7124G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7199A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.831e-05
+      }
+    },
+    {
+      "allele": "c.7210G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.544e-05,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.83e-05
+      }
+    },
+    {
+      "allele": "c.7282G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.7291G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.827e-05
+      }
+    },
+    {
+      "allele": "c.7291G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7292A>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7300G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 8.819e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 4.825e-05
+      }
+    },
+    {
+      "allele": "c.7304G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7304G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7307G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7310C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7317G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7354C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7355G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7355G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7358T>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7360C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.7361G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7372C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7373G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7373G>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7385C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.543e-05,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002068,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.742G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.742G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.0001922,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7487C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": 0.0003857,
+        "Near Eastern": 0.001152,
+        "Central/South Asian": 0.000207,
+        "Sub-Saharan African": 2.413e-05
+      }
+    },
+    {
+      "allele": "c.7522C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7522C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7523G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7528T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7760A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7771C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 7.262e-05
+      }
+    },
+    {
+      "allele": "c.7771C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7777C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.607e-05,
+        "American": null,
+        "European": 1.475e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7778G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 4.422e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7787C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.475e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7816T>A",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7879G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.7879G>C",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8005G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8026C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 2.94e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8054C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8188G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8189A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8198G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8290G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8327C>T",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0014621994,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001448
+      }
+    },
+    {
+      "allele": "c.8360C>G",
+      "function": "Normal function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.002814,
+        "American": null,
+        "European": 0.0004409,
+        "East Asian": null,
+        "Near Eastern": 0.01152,
+        "Central/South Asian": 0.0004144,
+        "Sub-Saharan African": 0.02895
+      }
+    },
+    {
+      "allele": "c.8518C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": 0.0001936,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0002082,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8527T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8600T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8638G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8654C>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8729C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.8926C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9152G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.471e-05,
+        "East Asian": null,
+        "Near Eastern": 0.004323,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.416e-05
+      }
+    },
+    {
+      "allele": "c.9268G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9310G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9356G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.0001925,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.412e-05
+      }
+    },
+    {
+      "allele": "c.946C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.947G>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": 0.0003861,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9499C>T",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9635A>G",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.544e-05,
+        "American": null,
+        "European": 0.00059750484,
+        "East Asian": null,
+        "Near Eastern": 0.0002884,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 9.651e-05
+      }
+    },
+    {
+      "allele": "c.9649T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9652G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 1.47e-05,
+        "East Asian": 0.0001925,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9676G>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9758T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0001935
+      }
+    },
+    {
+      "allele": "c.9797T>C",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.97A>G",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.982C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33767344"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": 0.0001883,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9848G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 6.545e-05,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9850T>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    },
+    {
+      "allele": "c.9868G>A",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 2.415e-05
+      }
+    },
+    {
+      "allele": "c.992_994dup",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "35849058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "American": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null
+      }
+    }
+  ]
+}

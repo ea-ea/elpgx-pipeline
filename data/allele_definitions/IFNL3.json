@@ -1,0 +1,60 @@
+{
+  "gene": "IFNL3",
+  "chromosome": "chr19",
+  "gene_tier": "group3",
+  "biomarker_type": "drug_target",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs12979860",
+      "chrom": "chr19",
+      "pos": 39248147,
+      "ref": "C",
+      "alt": "T",
+      "name": "-1595G>A",
+      "protein_location": "unknown (upstream)"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "rs12979860 reference (C)",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs12979860",
+          "chrom": "chr19",
+          "pos": 39248147,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "favorable response (CC)"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "rs12979860 variant (T)",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs12979860",
+          "chrom": "chr19",
+          "pos": 39248147,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "favorable response (CC)"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

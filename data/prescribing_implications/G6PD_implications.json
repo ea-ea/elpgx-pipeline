@@ -1,0 +1,536 @@
+{
+  "gene": "G6PD",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 52,
+  "level_a_pairs": 8,
+  "level_b_pairs": 4,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "dapsone",
+          "drug_id": "RxNorm:3108",
+          "cpic_level": "A",
+          "pharmgkb_level": "4",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "methylene blue",
+          "drug_id": "RxNorm:6878",
+          "cpic_level": "A",
+          "pharmgkb_level": "3",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "nitrofurantoin",
+          "drug_id": "RxNorm:7454",
+          "cpic_level": "A",
+          "pharmgkb_level": "3",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Medium_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "pegloticase",
+          "drug_id": "RxNorm:1011650",
+          "cpic_level": "A",
+          "pharmgkb_level": "3",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "primaquine",
+          "drug_id": "RxNorm:8687",
+          "cpic_level": "A",
+          "pharmgkb_level": "3",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Primaquine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "rasburicase",
+          "drug_id": "RxNorm:283821",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "tafenoquine",
+          "drug_id": "RxNorm:2054023",
+          "cpic_level": "A",
+          "pharmgkb_level": null,
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "toluidine blue",
+          "drug_id": "RxNorm:10638",
+          "cpic_level": "A",
+          "pharmgkb_level": null,
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: dapsone, methylene blue, nitrofurantoin, pegloticase, primaquine, rasburicase, tafenoquine, toluidine blue. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "lidocaine",
+          "drug_id": "RxNorm:6387",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "erythromycin",
+          "drug_id": "RxNorm:4053",
+          "cpic_level": "B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "levofloxacin",
+          "drug_id": "RxNorm:82122",
+          "cpic_level": "B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "mefloquine",
+          "drug_id": "RxNorm:6694",
+          "cpic_level": "B",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: lidocaine, erythromycin, levofloxacin, mefloquine. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "dapsone",
+      "drug_id": "RxNorm:3108",
+      "cpic_level": "A",
+      "pharmgkb_level": "4",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "methylene blue",
+      "drug_id": "RxNorm:6878",
+      "cpic_level": "A",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "nitrofurantoin",
+      "drug_id": "RxNorm:7454",
+      "cpic_level": "A",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Medium_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pegloticase",
+      "drug_id": "RxNorm:1011650",
+      "cpic_level": "A",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "primaquine",
+      "drug_id": "RxNorm:8687",
+      "cpic_level": "A",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Primaquine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "rasburicase",
+      "drug_id": "RxNorm:283821",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "tafenoquine",
+      "drug_id": "RxNorm:2054023",
+      "cpic_level": "A",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "toluidine blue",
+      "drug_id": "RxNorm:10638",
+      "cpic_level": "A",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "lidocaine",
+      "drug_id": "RxNorm:6387",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "erythromycin",
+      "drug_id": "RxNorm:4053",
+      "cpic_level": "B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "levofloxacin",
+      "drug_id": "RxNorm:82122",
+      "cpic_level": "B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "mefloquine",
+      "drug_id": "RxNorm:6694",
+      "cpic_level": "B",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "aminosalicylic acid",
+      "drug_id": "RxNorm:7833",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "norfloxacin",
+      "drug_id": "RxNorm:7517",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfadiazine",
+      "drug_id": "RxNorm:10171",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "chloroquine",
+      "drug_id": "RxNorm:2393",
+      "cpic_level": "C",
+      "pharmgkb_level": "4",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "aspirin",
+      "drug_id": "RxNorm:1191",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "quinine",
+      "drug_id": "RxNorm:9071",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "chloramphenicol",
+      "drug_id": "RxNorm:2348",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "chlorpropamide",
+      "drug_id": "RxNorm:2404",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "ciprofloxacin",
+      "drug_id": "RxNorm:2551",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "dabrafenib",
+      "drug_id": "RxNorm:1424911",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "dimercaprol",
+      "drug_id": "RxNorm:3445",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "doxorubicin",
+      "drug_id": "RxNorm:3639",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "furazolidone",
+      "drug_id": "RxNorm:4601",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "gliclazide",
+      "drug_id": "RxNorm:4816",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "glimepiride",
+      "drug_id": "RxNorm:25789",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "glipizide",
+      "drug_id": "RxNorm:4821",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "glyburide",
+      "drug_id": "RxNorm:4815",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "hydroxychloroquine",
+      "drug_id": "RxNorm:5521",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "mafenide",
+      "drug_id": "RxNorm:6572",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "mepacrine",
+      "drug_id": "RxNorm:9061",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "mesalazine",
+      "drug_id": "RxNorm:52582",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "moxifloxacin",
+      "drug_id": "RxNorm:139462",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "nalidixic acid",
+      "drug_id": "RxNorm:7240",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "nicorandil",
+      "drug_id": "RxNorm:31748",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "nitrofural",
+      "drug_id": "RxNorm:7455",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "ofloxacin",
+      "drug_id": "RxNorm:7623",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "phenazopyridine",
+      "drug_id": "RxNorm:8120",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "probenecid",
+      "drug_id": "RxNorm:8698",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "sodium nitrite",
+      "drug_id": "RxNorm:9894",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "sulfacetamide",
+      "drug_id": "RxNorm:10169",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "sulfadimidine",
+      "drug_id": "RxNorm:10178",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfamethoxazole / trimethoprim",
+      "drug_id": "RxNorm:10831",
+      "cpic_level": "C",
+      "pharmgkb_level": "4",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfanilamide",
+      "drug_id": "RxNorm:10184",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfasalazine",
+      "drug_id": "RxNorm:9524",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfisoxazole",
+      "drug_id": "RxNorm:10207",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "tolazamide",
+      "drug_id": "RxNorm:10633",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "tolbutamide",
+      "drug_id": "RxNorm:10635",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "trametinib",
+      "drug_id": "RxNorm:1425099",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "vitamin c",
+      "drug_id": "RxNorm:1151",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "vitamin k",
+      "drug_id": "RxNorm:11258",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "gene": "HLA-B",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "activity_score_based": false,
+  "phenotype_by_activity_score": {},
+  "mappings": [
+    {
+      "diplotype": "*15:02 negative",
+      "phenotype": "*15:02 negative",
+      "activity_score": null,
+      "ehr_priority": "Routine/Low-Risk"
+    },
+    {
+      "diplotype": "*15:02 positive",
+      "phenotype": "*15:02 positive",
+      "activity_score": null,
+      "ehr_priority": "Priority/High-Risk"
+    },
+    {
+      "diplotype": "*57:01 negative",
+      "phenotype": "*57:01 negative",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*57:01 positive",
+      "phenotype": "*57:01 positive",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*58:01 negative",
+      "phenotype": "*58:01 negative",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*58:01 positive",
+      "phenotype": "*58:01 positive",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    }
+  ]
+}

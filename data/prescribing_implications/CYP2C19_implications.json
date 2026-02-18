@@ -1,0 +1,384 @@
+{
+  "gene": "CYP2C19",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 27,
+  "level_a_pairs": 9,
+  "level_b_pairs": 9,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "citalopram",
+          "drug_id": "RxNorm:2556",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Citalopram_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "amitriptyline",
+          "drug_id": "RxNorm:704",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Amitriptyline_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "voriconazole",
+          "drug_id": "RxNorm:121243",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Voriconazole_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "escitalopram",
+          "drug_id": "RxNorm:321988",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Escitalopram_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "clopidogrel",
+          "drug_id": "RxNorm:32968",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clopidogrel_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "lansoprazole",
+          "drug_id": "RxNorm:17128",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lansoprazole_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "omeprazole",
+          "drug_id": "RxNorm:7646",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Omeprazole_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "pantoprazole",
+          "drug_id": "RxNorm:40790",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pantoprazole_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "sertraline",
+          "drug_id": "RxNorm:36437",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sertraline_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: citalopram, amitriptyline, voriconazole, escitalopram, clopidogrel, lansoprazole, omeprazole, pantoprazole, sertraline. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "clomipramine",
+          "drug_id": "RxNorm:2597",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clomipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "doxepin",
+          "drug_id": "RxNorm:3638",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Doxepin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "imipramine",
+          "drug_id": "RxNorm:5691",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Imipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "brivaracetam",
+          "drug_id": "RxNorm:1739745",
+          "cpic_level": "B",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "dexlansoprazole",
+          "drug_id": "RxNorm:816346",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Dexlansoprazole_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "trimipramine",
+          "drug_id": "RxNorm:10834",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Trimipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "carisoprodol",
+          "drug_id": "RxNorm:2101",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "4",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "clobazam",
+          "drug_id": "RxNorm:21241",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "diazepam",
+          "drug_id": "RxNorm:3322",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: clomipramine, doxepin, imipramine, brivaracetam, dexlansoprazole, trimipramine, carisoprodol, clobazam, diazepam. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "citalopram",
+      "drug_id": "RxNorm:2556",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Citalopram_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "amitriptyline",
+      "drug_id": "RxNorm:704",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Amitriptyline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "voriconazole",
+      "drug_id": "RxNorm:121243",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Voriconazole_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "escitalopram",
+      "drug_id": "RxNorm:321988",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Escitalopram_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "clopidogrel",
+      "drug_id": "RxNorm:32968",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clopidogrel_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "lansoprazole",
+      "drug_id": "RxNorm:17128",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lansoprazole_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "omeprazole",
+      "drug_id": "RxNorm:7646",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Omeprazole_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pantoprazole",
+      "drug_id": "RxNorm:40790",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pantoprazole_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sertraline",
+      "drug_id": "RxNorm:36437",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sertraline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "clomipramine",
+      "drug_id": "RxNorm:2597",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clomipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "doxepin",
+      "drug_id": "RxNorm:3638",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Doxepin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "imipramine",
+      "drug_id": "RxNorm:5691",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Imipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "brivaracetam",
+      "drug_id": "RxNorm:1739745",
+      "cpic_level": "B",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dexlansoprazole",
+      "drug_id": "RxNorm:816346",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Dexlansoprazole_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "trimipramine",
+      "drug_id": "RxNorm:10834",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Trimipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "carisoprodol",
+      "drug_id": "RxNorm:2101",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "4",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "clobazam",
+      "drug_id": "RxNorm:21241",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "diazepam",
+      "drug_id": "RxNorm:3322",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "esomeprazole",
+      "drug_id": "RxNorm:283742",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "duloxetine",
+      "drug_id": "RxNorm:72625",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "fluoxetine",
+      "drug_id": "RxNorm:4493",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "flibanserin",
+      "drug_id": "RxNorm:1665509",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "fluvoxamine",
+      "drug_id": "RxNorm:42355",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvoxamine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "paroxetine",
+      "drug_id": "RxNorm:32937",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Paroxetine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "rabeprazole",
+      "drug_id": "RxNorm:114979",
+      "cpic_level": "C",
+      "pharmgkb_level": "2A",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "venlafaxine",
+      "drug_id": "RxNorm:39786",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Venlafaxine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "vortioxetine",
+      "drug_id": "RxNorm:1455099",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Vortioxetine_CDS_Flow_Chart.jpg"
+    }
+  ]
+}

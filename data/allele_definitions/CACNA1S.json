@@ -1,0 +1,81 @@
+{
+  "gene": "CACNA1S",
+  "chromosome": "chr1",
+  "gene_tier": "group3",
+  "biomarker_type": "drug_target",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs772226819",
+      "chrom": "chr1",
+      "pos": 201091993,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.520C>T",
+      "protein_location": "p.R174W"
+    },
+    {
+      "rsid": "rs1800559",
+      "chrom": "chr1",
+      "pos": 201060815,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.3257G>A",
+      "protein_location": "p.R1086H"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "Reference",
+      "function": "Normal function",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "c.3257G>A",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "9199552",
+        "11260227",
+        "12411788",
+        "16163667",
+        "15201141"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 2.891e-05,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Near Eastern": 0.0,
+        "Central/South Asian": 0.0
+      }
+    },
+    {
+      "allele": "c.520C>T",
+      "function": "Malignant Hyperthermia associated",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "19825159",
+        "28259615",
+        "22547813"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 5.783e-05,
+        "European": 1.4776972e-05,
+        "East Asian": 0.0001087,
+        "Near Eastern": 0.0,
+        "Central/South Asian": 3.267e-05
+      }
+    }
+  ]
+}

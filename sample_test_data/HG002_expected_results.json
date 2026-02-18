@@ -1,0 +1,437 @@
+{
+  "schema_version": "1.0.0",
+  "meta": {
+    "sample_id": "Sample_Diag-excap51-HG002-EEogPU",
+    "pipeline_version": "1.1.0",
+    "run_date": "2026-02-18T07:42:23.742787Z",
+    "reference_build": "GRCh37",
+    "pgx_db_version": "CPIC v1.24",
+    "gene_tiers_included": [
+      "group1",
+      "group2",
+      "group3"
+    ],
+    "hla_module_enabled": false,
+    "provenance": {
+      "git_commit": "1dae331ab5e11d1d1fbf9d8c9b9a2f94022e3022",
+      "git_branch": "main",
+      "nextflow_version": null,
+      "docker_images": {
+        "elifffarslan/elpgx-python:1.1.0": "sha256:938e8ecfdbe24e9b0159505d6c6cbf7fff552e4d93b95d30070db40550662fc9",
+        "elifffarslan/elpgx-gatk:1.1.0": "sha256:abc9eedf904c9a00c5aa2fc5d6d7df5261e6205b28e1f4560a6c8c6686eab12b"
+      },
+      "reference_fasta_md5": null,
+      "reference_fasta_path": null,
+      "pgx_db_hash": "4aca8fab360d5c36d3f1e7040d474c853ff28a548d844f167afaa98ae86e86a8",
+      "input_bam_md5": null,
+      "variant_caller": "GATK HaplotypeCaller",
+      "variant_caller_version": "v4.6.2.0"
+    }
+  },
+  "results": [
+    {
+      "gene": "CYP2C19",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "CYP2D6",
+      "gene_tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "SLCO1B1",
+      "gene_tier": "group1",
+      "biomarker_type": "transporter",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Function",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "CYP3A5",
+      "gene_tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "CACNA1S",
+      "gene_tier": "group3",
+      "biomarker_type": "drug_target",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "CYP2B6",
+      "gene_tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "NAT2",
+      "gene_tier": "group3",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*6/*60",
+      "functional_status": "Decreased function / Unknown function",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.7,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": [
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*6",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*60",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*61",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*62",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*63",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*64",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*65",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*66",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*67",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*68",
+          "functional_impact": "slow acetylator"
+        },
+        {
+          "rsid": null,
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "genotype": "0/1",
+          "quality": 3472.639892578125,
+          "depth": 259,
+          "allele_defining": true,
+          "star_allele": "*69",
+          "functional_impact": "slow acetylator"
+        }
+      ]
+    },
+    {
+      "gene": "VKORC1",
+      "gene_tier": "group1",
+      "biomarker_type": "drug_target",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "NUDT15",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "DPYD",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "RYR1",
+      "gene_tier": "group3",
+      "biomarker_type": "drug_target",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "TPMT",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "UGT1A1",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "IFNL3",
+      "gene_tier": "group3",
+      "biomarker_type": "drug_target",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "CYP2C9",
+      "gene_tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": 2.0,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    },
+    {
+      "gene": "G6PD",
+      "gene_tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "diplotype": "*1/*1",
+      "functional_status": "Normal Function",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "prescribing_implication": "No specific guidance available.",
+      "confidence": {
+        "score": 0.9,
+        "flags": [],
+        "variant_depth_stats": null
+      },
+      "variants": []
+    }
+  ],
+  "warnings": [
+    "Provenance: nextflow_version: Not available",
+    "Provenance: reference_fasta_md5: Reference checksum not available"
+  ]
+}

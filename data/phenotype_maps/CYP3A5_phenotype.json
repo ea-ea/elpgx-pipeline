@@ -1,0 +1,135 @@
+{
+  "gene": "CYP3A5",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "activity_score_based": false,
+  "phenotype_by_activity_score": {},
+  "mappings": [
+    {
+      "diplotype": "*1/*1",
+      "phenotype": "Normal Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*1/*3",
+      "phenotype": "Intermediate Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*1/*6",
+      "phenotype": "Intermediate Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*1/*7",
+      "phenotype": "Intermediate Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*1/*8",
+      "phenotype": "Possible Intermediate Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*1/*9",
+      "phenotype": "Possible Intermediate Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "*3/*3",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*3/*6",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*3/*7",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*3/*8",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*3/*9",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*6/*6",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*6/*7",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*6/*8",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*6/*9",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*7/*7",
+      "phenotype": "Poor Metabolizer",
+      "activity_score": null,
+      "ehr_priority": "Normal/Routine/Low Risk"
+    },
+    {
+      "diplotype": "*7/*8",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*7/*9",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*8/*8",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*8/*9",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    },
+    {
+      "diplotype": "*9/*9",
+      "phenotype": "Indeterminate",
+      "activity_score": null,
+      "ehr_priority": "none"
+    }
+  ]
+}

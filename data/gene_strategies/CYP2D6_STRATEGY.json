@@ -1,0 +1,141 @@
+{
+  "gene": "CYP2D6",
+  "version": "1.1.0",
+  "last_updated": "2026-02-14",
+  "clinical_importance": "critical",
+  "complexity_level": "high",
+
+  "supported_features": {
+    "snv_calling": {
+      "supported": true,
+      "description": "Single nucleotide variants via GATK HaplotypeCaller",
+      "confidence": "high"
+    },
+    "small_indels": {
+      "supported": true,
+      "description": "Small insertions/deletions (<50bp)",
+      "confidence": "high"
+    },
+    "star_alleles_snv_based": {
+      "supported": true,
+      "alleles": ["*2", "*3", "*4", "*6", "*7", "*8", "*9", "*10", "*14", "*17", "*29", "*41"],
+      "description": "Star alleles defined by SNVs only",
+      "confidence": "high"
+    }
+  },
+
+  "unsupported_features": {
+    "cnv_detection": {
+      "supported": false,
+      "affected_alleles": ["*5", "*1xN", "*2xN", "*4xN"],
+      "description": "Whole gene deletions and duplications cannot be detected",
+      "clinical_impact": "critical",
+      "workaround": "Use external CNV caller (e.g., Stargazer) and manually review",
+      "warning_message": "CYP2D6 CNV detection is not supported. Gene deletions (*5) and duplications (*1xN, *2xN) cannot be detected. Results assume diploid copy number."
+    },
+    "hybrid_alleles": {
+      "supported": false,
+      "affected_alleles": ["*13", "*36", "*57", "*61", "*63", "*68"],
+      "description": "CYP2D6-CYP2D7 hybrid/chimeric alleles cannot be detected",
+      "clinical_impact": "high",
+      "workaround": "Requires long-read sequencing or specialized assay"
+    },
+    "tandem_arrangements": {
+      "supported": false,
+      "affected_alleles": ["*36+*10", "*36+*41"],
+      "description": "Complex tandem gene arrangements not detectable",
+      "clinical_impact": "moderate",
+      "workaround": "Long-read sequencing recommended"
+    },
+    "gene_conversions": {
+      "supported": false,
+      "description": "Partial gene conversions with CYP2D7",
+      "clinical_impact": "moderate"
+    }
+  },
+
+  "confidence_thresholds": {
+    "high_confidence": {
+      "min_score": 0.90,
+      "phenotype_reported": true,
+      "flags_allowed": []
+    },
+    "moderate_confidence": {
+      "min_score": 0.70,
+      "max_score": 0.89,
+      "phenotype_reported": true,
+      "flags_allowed": ["LOW_DEPTH"],
+      "warning": "Review recommended before clinical action"
+    },
+    "low_confidence": {
+      "min_score": 0.50,
+      "max_score": 0.69,
+      "phenotype_reported": true,
+      "phenotype_qualifier": "PROVISIONAL",
+      "flags_allowed": ["LOW_DEPTH", "LOW_QUALITY", "INCOMPLETE_ALLELE"],
+      "warning": "Confirmatory testing recommended"
+    },
+    "no_call": {
+      "max_score": 0.49,
+      "phenotype_reported": false,
+      "phenotype_value": "Indeterminate",
+      "flags": ["NO_CALL"],
+      "action": "Phenotype blocked - manual review required"
+    }
+  },
+
+  "phenotype_blocking_rules": [
+    {
+      "condition": "confidence_score < 0.50",
+      "action": "block_phenotype",
+      "phenotype_value": "Indeterminate",
+      "message": "Confidence too low for phenotype assignment"
+    },
+    {
+      "condition": "flag == 'NO_CALL'",
+      "action": "block_phenotype",
+      "phenotype_value": "Indeterminate",
+      "message": "Unable to determine diplotype"
+    },
+    {
+      "condition": "flag == 'AMBIGUOUS_CALL' AND confidence_score < 0.70",
+      "action": "block_phenotype",
+      "phenotype_value": "Indeterminate",
+      "message": "Ambiguous call with low confidence"
+    }
+  ],
+
+  "activity_score_calculation": {
+    "method": "sum_of_allele_activities",
+    "reference": "CPIC CYP2D6 Guideline",
+    "note": "Activity scores assume CN=2 (diploid). CNV would alter this calculation."
+  },
+
+  "known_limitations": [
+    "Cannot detect *5 (gene deletion) - will incorrectly call as *1/*1 or *1/*X",
+    "Cannot detect gene duplications - ultrarapid metabolizers may be missed",
+    "Hybrid alleles (*13, *36) will be partially called based on SNV component only",
+    "Activity score assumes diploid state without CNV",
+    "Phase information not available - rare cis arrangements may be missed"
+  ],
+
+  "recommended_confirmatory_testing": [
+    "Digital PCR for copy number",
+    "Long-read sequencing for complex alleles",
+    "TaqMan CNV assay for *5 deletion",
+    "XL-PCR for duplication detection"
+  ],
+
+  "references": [
+    {
+      "source": "CPIC",
+      "guideline": "CPIC Guideline for CYP2D6 Genotype and Codeine Therapy",
+      "pmid": "22205192",
+      "url": "https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/"
+    },
+    {
+      "source": "PharmVar",
+      "url": "https://www.pharmvar.org/gene/CYP2D6"
+    }
+  ]
+}

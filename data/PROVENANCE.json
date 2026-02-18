@@ -1,0 +1,31 @@
+{
+  "source": "Clinical Pharmacogenetics Implementation Consortium (CPIC)",
+  "api_url": "https://api.cpicpgx.org/v1",
+  "cpic_version": "v1.24",
+  "reference_build": "GRCh38",
+  "download_date": "2026-02-13T14:50:12.441107+00:00",
+  "genes_included": [
+    "CYP2C19",
+    "CYP2C9",
+    "CYP2D6",
+    "CYP3A5",
+    "VKORC1",
+    "SLCO1B1",
+    "TPMT",
+    "NUDT15",
+    "DPYD",
+    "UGT1A1",
+    "NAT2",
+    "IFNL3",
+    "G6PD",
+    "CYP2B6",
+    "CACNA1S",
+    "RYR1",
+    "HLA-A",
+    "HLA-B"
+  ],
+  "total_genes": 18,
+  "license": "CC BY-SA 4.0",
+  "citation": "Relling MV, Klein TE. CPIC: Clinical Pharmacogenetics Implementation Consortium. Clin Pharmacol Ther. 2011;89(3):464-467.",
+  "pharmgkb_citation": "Whirl-Carrillo M, et al. Pharmacogenomics Knowledge for Personalized Medicine. Clin Pharmacol Ther. 2012;92(4):414-417."
+}

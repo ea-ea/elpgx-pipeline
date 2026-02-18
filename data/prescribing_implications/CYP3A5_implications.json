@@ -1,0 +1,122 @@
+{
+  "gene": "CYP3A5",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 12,
+  "level_a_pairs": 1,
+  "level_b_pairs": 0,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "tacrolimus",
+          "drug_id": "RxNorm:42316",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tacrolimus_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: tacrolimus. Genetic testing recommended before prescribing."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "tacrolimus",
+      "drug_id": "RxNorm:42316",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tacrolimus_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "fluvastatin",
+      "drug_id": "RxNorm:41127",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "atazanavir",
+      "drug_id": "RxNorm:343047",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atazanavir_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "atorvastatin",
+      "drug_id": "RxNorm:83367",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atorvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "cyclosporine",
+      "drug_id": "RxNorm:3008",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "lovastatin",
+      "drug_id": "RxNorm:6472",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lovastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pitavastatin",
+      "drug_id": "RxNorm:861634",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pitavastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pravastatin",
+      "drug_id": "RxNorm:42463",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pravastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "rosuvastatin",
+      "drug_id": "RxNorm:301542",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Rosuvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "simvastatin",
+      "drug_id": "RxNorm:36567",
+      "cpic_level": "C",
+      "pharmgkb_level": "4",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Simvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sirolimus",
+      "drug_id": "RxNorm:35302",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "midazolam",
+      "drug_id": "RxNorm:6960",
+      "cpic_level": "C/D",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# ElPGx Docker Compose
+# Build and push all Docker images for the pipeline
+#
+# Usage:
+#   docker-compose build          # Build all images
+#   docker-compose push           # Push to Docker Hub
+#   docker-compose build --push   # Build and push
+
+services:
+  elpgx-python:
+    build:
+      context: .
+      dockerfile: docker/elpgx-python/Dockerfile
+    image: elifffarslan/elpgx-python:1.1.0
+    platform: linux/amd64
+
+  elpgx-gatk:
+    build:
+      context: .
+      dockerfile: docker/gatk/Dockerfile
+    image: elifffarslan/elpgx-gatk:1.1.0
+    platform: linux/amd64
+
+  elpgx-hla:
+    build:
+      context: .
+      dockerfile: docker/hla/Dockerfile
+    image: elifffarslan/elpgx-hla:1.1.0
+    platform: linux/amd64

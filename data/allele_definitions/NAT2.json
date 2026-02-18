@@ -1,0 +1,1626 @@
+{
+  "gene": "NAT2",
+  "chromosome": "chr8",
+  "gene_tier": "group3",
+  "biomarker_type": "metabolic_enzyme",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs200893121",
+      "chrom": "chr8",
+      "pos": 18400010,
+      "ref": "A",
+      "alt": "G",
+      "name": "7A>G",
+      "protein_location": "p.I3V"
+    },
+    {
+      "rsid": "rs1464413878",
+      "chrom": "chr8",
+      "pos": 18400070,
+      "ref": "A",
+      "alt": "C",
+      "name": "67A>C",
+      "protein_location": "p.T23P"
+    },
+    {
+      "rsid": "rs2535896050",
+      "chrom": "chr8",
+      "pos": 18400267,
+      "ref": "G",
+      "alt": "A",
+      "name": "264G>A",
+      "protein_location": "p.M88I"
+    },
+    {
+      "rsid": "rs774002627",
+      "chrom": "chr8",
+      "pos": 18400583,
+      "ref": "C",
+      "alt": "G",
+      "name": "580C>G",
+      "protein_location": "p.L194V"
+    },
+    {
+      "rsid": "rs761741098",
+      "chrom": "chr8",
+      "pos": 18400599,
+      "ref": "T",
+      "alt": "C",
+      "name": "596T>C",
+      "protein_location": "p.I199T"
+    },
+    {
+      "rsid": "rs45607939",
+      "chrom": "chr8",
+      "pos": 18400616,
+      "ref": "A",
+      "alt": "T",
+      "name": "613A>T",
+      "protein_location": "p.M205L"
+    },
+    {
+      "rsid": "rs150329557",
+      "chrom": "chr8",
+      "pos": 18400685,
+      "ref": "C",
+      "alt": "T",
+      "name": "682C>T",
+      "protein_location": "p.P228S"
+    },
+    {
+      "rsid": "rs756616433",
+      "chrom": "chr8",
+      "pos": 18400707,
+      "ref": "T",
+      "alt": "G",
+      "name": "704T>G",
+      "protein_location": "p.V235G"
+    },
+    {
+      "rsid": "rs72466456",
+      "chrom": "chr8",
+      "pos": 18400032,
+      "ref": "T",
+      "alt": "C",
+      "name": "29T>C",
+      "protein_location": "p.I10T"
+    },
+    {
+      "rsid": "rs201339185",
+      "chrom": "chr8",
+      "pos": 18400054,
+      "ref": "C",
+      "alt": "G",
+      "name": "51C>G",
+      "protein_location": "p.N17K"
+    },
+    {
+      "rsid": "rs910738034",
+      "chrom": "chr8",
+      "pos": 18400805,
+      "ref": "A",
+      "alt": "G",
+      "name": "802A>G",
+      "protein_location": "p.R268G"
+    },
+    {
+      "rsid": "rs532310930",
+      "chrom": "chr8",
+      "pos": 18400061,
+      "ref": "G",
+      "alt": "T",
+      "name": "58G>T",
+      "protein_location": "p.D20Y"
+    },
+    {
+      "rsid": "rs45477599",
+      "chrom": "chr8",
+      "pos": 18400073,
+      "ref": "T",
+      "alt": "A",
+      "name": "70T>A",
+      "protein_location": "p.L24I"
+    },
+    {
+      "rsid": "rs149283608",
+      "chrom": "chr8",
+      "pos": 18400124,
+      "ref": "A",
+      "alt": "T",
+      "name": "121A>T",
+      "protein_location": "p.N41Y"
+    },
+    {
+      "rsid": "rs72466457",
+      "chrom": "chr8",
+      "pos": 18400155,
+      "ref": "G",
+      "alt": "T",
+      "name": "152G>T",
+      "protein_location": "p.G51V"
+    },
+    {
+      "rsid": "rs1805158",
+      "chrom": "chr8",
+      "pos": 18400193,
+      "ref": "C",
+      "alt": "T",
+      "name": "190C>T",
+      "protein_location": "p.R64W"
+    },
+    {
+      "rsid": "rs1801279",
+      "chrom": "chr8",
+      "pos": 18400194,
+      "ref": "G",
+      "alt": "A",
+      "name": "191G>A",
+      "protein_location": "p.R64Q"
+    },
+    {
+      "rsid": "rs72466458",
+      "chrom": "chr8",
+      "pos": 18400206,
+      "ref": "G",
+      "alt": "A",
+      "name": "203G>A",
+      "protein_location": "p.C68Y"
+    },
+    {
+      "rsid": "rs148566670",
+      "chrom": "chr8",
+      "pos": 18400826,
+      "ref": "T",
+      "alt": "A",
+      "name": "823T>A",
+      "protein_location": "p.L275M"
+    },
+    {
+      "rsid": "rs56054745",
+      "chrom": "chr8",
+      "pos": 18400848,
+      "ref": "A",
+      "alt": "G",
+      "name": "845A>G",
+      "protein_location": "p.K282R"
+    },
+    {
+      "rsid": "rs72466460",
+      "chrom": "chr8",
+      "pos": 18400461,
+      "ref": "C",
+      "alt": "T",
+      "name": "458C>T",
+      "protein_location": "p.T153I"
+    },
+    {
+      "rsid": "rs139351995",
+      "chrom": "chr8",
+      "pos": 18400475,
+      "ref": "A",
+      "alt": "C",
+      "name": "472A>C",
+      "protein_location": "p.I158L"
+    },
+    {
+      "rsid": "rs537007806",
+      "chrom": "chr8",
+      "pos": 18400478,
+      "ref": "T",
+      "alt": "A",
+      "name": "475T>A",
+      "protein_location": "p.W159R"
+    },
+    {
+      "rsid": "rs139512288",
+      "chrom": "chr8",
+      "pos": 18400494,
+      "ref": "T",
+      "alt": "C",
+      "name": "491T>C",
+      "protein_location": "p.I164T"
+    },
+    {
+      "rsid": "rs72554617",
+      "chrom": "chr8",
+      "pos": 18400502,
+      "ref": "G",
+      "alt": "A",
+      "name": "499G>A",
+      "protein_location": "p.E167K"
+    },
+    {
+      "rsid": "rs200585149",
+      "chrom": "chr8",
+      "pos": 18400509,
+      "ref": "A",
+      "alt": "G",
+      "name": "506A>G",
+      "protein_location": "p.Y169C"
+    },
+    {
+      "rsid": "rs369500066",
+      "chrom": "chr8",
+      "pos": 18400521,
+      "ref": "A",
+      "alt": "G",
+      "name": "518A>G",
+      "protein_location": "p.K173R"
+    },
+    {
+      "rsid": "rs79050330",
+      "chrom": "chr8",
+      "pos": 18400581,
+      "ref": "C",
+      "alt": "T",
+      "name": "578C>T",
+      "protein_location": "p.T193M"
+    },
+    {
+      "rsid": "rs375746304",
+      "chrom": "chr8",
+      "pos": 18400592,
+      "ref": "C",
+      "alt": "T",
+      "name": "589C>T",
+      "protein_location": "p.R197X"
+    },
+    {
+      "rsid": "rs1799930",
+      "chrom": "chr8",
+      "pos": 18400593,
+      "ref": "G",
+      "alt": "A",
+      "name": "590G>A",
+      "protein_location": "p.R197Q"
+    },
+    {
+      "rsid": "rs45618543",
+      "chrom": "chr8",
+      "pos": 18400612,
+      "ref": "G",
+      "alt": "T",
+      "name": "609G>T",
+      "protein_location": "p.E203D"
+    },
+    {
+      "rsid": "rs56387565",
+      "chrom": "chr8",
+      "pos": 18400625,
+      "ref": "T",
+      "alt": "C",
+      "name": "622T>C",
+      "protein_location": "p.Y208H"
+    },
+    {
+      "rsid": "rs561124342",
+      "chrom": "chr8",
+      "pos": 18400251,
+      "ref": "G",
+      "alt": "C",
+      "name": "248G>C",
+      "protein_location": "p.G83A"
+    },
+    {
+      "rsid": "rs549917500",
+      "chrom": "chr8",
+      "pos": 18400324,
+      "ref": "C",
+      "alt": "A",
+      "name": "321C>A",
+      "protein_location": "p.H107Q"
+    },
+    {
+      "rsid": "rs1801280",
+      "chrom": "chr8",
+      "pos": 18400344,
+      "ref": "T",
+      "alt": "C",
+      "name": "341T>C",
+      "protein_location": "p.I114T"
+    },
+    {
+      "rsid": "rs183409091",
+      "chrom": "chr8",
+      "pos": 18400349,
+      "ref": "G",
+      "alt": "A",
+      "name": "346G>A",
+      "protein_location": "p.G116S"
+    },
+    {
+      "rsid": "rs4986996",
+      "chrom": "chr8",
+      "pos": 18400367,
+      "ref": "G",
+      "alt": "A",
+      "name": "364G>A",
+      "protein_location": "p.D122N"
+    },
+    {
+      "rsid": "rs12720065",
+      "chrom": "chr8",
+      "pos": 18400406,
+      "ref": "C",
+      "alt": "G",
+      "name": "403C>G",
+      "protein_location": "p.L135V"
+    },
+    {
+      "rsid": "rs138707146",
+      "chrom": "chr8",
+      "pos": 18400641,
+      "ref": "C",
+      "alt": "T",
+      "name": "638C>T",
+      "protein_location": "p.P213L"
+    },
+    {
+      "rsid": "rs568110818",
+      "chrom": "chr8",
+      "pos": 18400653,
+      "ref": "T",
+      "alt": "A",
+      "name": "650T>A",
+      "protein_location": "p.F217Y"
+    },
+    {
+      "rsid": "rs45518335",
+      "chrom": "chr8",
+      "pos": 18400686,
+      "ref": "C",
+      "alt": "T",
+      "name": "683C>T",
+      "protein_location": "p.P228L"
+    },
+    {
+      "rsid": "rs572750517",
+      "chrom": "chr8",
+      "pos": 18400539,
+      "ref": "A",
+      "alt": "G",
+      "name": "536A>G",
+      "protein_location": "p.H179R"
+    },
+    {
+      "rsid": "rs55700793",
+      "chrom": "chr8",
+      "pos": 18400769,
+      "ref": "A",
+      "alt": "G",
+      "name": "766A>G",
+      "protein_location": "p.K256E"
+    },
+    {
+      "rsid": "rs539346244",
+      "chrom": "chr8",
+      "pos": 18400799,
+      "ref": "G",
+      "alt": "A",
+      "name": "796G>A",
+      "protein_location": "p.V266M"
+    },
+    {
+      "rsid": "rs1208",
+      "chrom": "chr8",
+      "pos": 18400806,
+      "ref": "G",
+      "alt": "A",
+      "name": "803G>A",
+      "protein_location": "p.R268K"
+    },
+    {
+      "rsid": "rs56393504",
+      "chrom": "chr8",
+      "pos": 18400841,
+      "ref": "G",
+      "alt": "A",
+      "name": "838G>A",
+      "protein_location": "p.V280M"
+    },
+    {
+      "rsid": "rs1799931",
+      "chrom": "chr8",
+      "pos": 18400860,
+      "ref": "G",
+      "alt": "A",
+      "name": "857G>A",
+      "protein_location": "p.G286E"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "*1",
+      "function": "Increased function",
+      "activity_value": 1.5,
+      "defining_variants": [],
+      "citations": [
+        "9154882",
+        "30564082",
+        "15558239",
+        "10744128",
+        "22092036",
+        "20040334",
+        "9333101",
+        "17011540",
+        "24444407",
+        "20801937",
+        "24221535",
+        "27223070",
+        "10762005",
+        "21946899"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*4",
+      "function": "Increased function",
+      "activity_value": 1.5,
+      "defining_variants": [],
+      "citations": [
+        "9154882",
+        "8781741",
+        "28653770",
+        "8102597",
+        "30564082",
+        "15558239",
+        "7668286",
+        "2376572",
+        "1451720",
+        "10744128",
+        "22092036",
+        "1872889",
+        "8689813",
+        "20040334",
+        "9333101",
+        "17011540",
+        "22970273",
+        "16531626",
+        "15565348",
+        "9321764",
+        "9110365",
+        "11214777",
+        "31257615",
+        "29018032",
+        "24702251",
+        "24444407",
+        "15110095",
+        "27509179",
+        "11773863",
+        "20801937",
+        "16003747",
+        "21750470",
+        "23899363",
+        "9565293",
+        "9891107",
+        "9682266",
+        "24221535",
+        "22105431",
+        "8287065",
+        "27223070",
+        "8001235",
+        "8923605",
+        "10762005",
+        "8081359",
+        "35928262",
+        "28752039",
+        "17505821",
+        "21946899",
+        "16570187",
+        "15032315",
+        "18167504",
+        "17434923",
+        "33815485",
+        "18680467",
+        "19336229",
+        "15564878",
+        "7669073",
+        "11337936",
+        "12222688",
+        "17264801"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*5",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "9154882",
+        "8781741",
+        "28653770",
+        "8102597",
+        "30564082",
+        "15558239",
+        "7668286",
+        "1451720",
+        "10744128",
+        "22092036",
+        "1872889",
+        "8689813",
+        "20040334",
+        "17011540",
+        "22970273",
+        "16531626",
+        "15565348",
+        "9321764",
+        "9110365",
+        "31257615",
+        "29018032",
+        "24702251",
+        "24444407",
+        "15110095",
+        "27509179",
+        "11773863",
+        "20801937",
+        "16003747",
+        "21750470",
+        "9565293",
+        "9891107",
+        "24221535",
+        "8287065",
+        "27223070",
+        "8001235",
+        "8923605",
+        "10762005",
+        "8081359",
+        "35928262",
+        "28752039",
+        "17505821",
+        "21946899",
+        "16570187",
+        "15032315",
+        "18167504",
+        "17434923",
+        "33815485",
+        "18680467",
+        "19336229",
+        "15564878",
+        "7669073",
+        "11337936"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*6",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "9154882",
+        "8781741",
+        "29589062",
+        "28653770",
+        "8102597",
+        "30564082",
+        "15558239",
+        "7668286",
+        "2376572",
+        "1451720",
+        "10744128",
+        "22092036",
+        "1872889",
+        "20040334",
+        "9333101",
+        "22970273",
+        "16531626",
+        "15565348",
+        "9321764",
+        "9110365",
+        "11214777",
+        "31257615",
+        "24702251",
+        "24444407",
+        "15110095",
+        "27509179",
+        "11773863",
+        "20801937",
+        "21750470",
+        "23899363",
+        "9565293",
+        "9891107",
+        "9682266",
+        "24221535",
+        "22105431",
+        "8287065",
+        "27223070",
+        "8001235",
+        "8923605",
+        "10762005",
+        "8081359",
+        "35928262",
+        "28752039",
+        "17505821",
+        "21946899",
+        "16570187",
+        "15032315",
+        "18167504",
+        "17434923",
+        "33815485",
+        "18680467",
+        "19336229",
+        "7669073",
+        "11337936",
+        "28516247"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*7",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "9154882",
+        "29589062",
+        "28653770",
+        "8102597",
+        "30564082",
+        "15558239",
+        "7668286",
+        "2376572",
+        "10744128",
+        "22092036",
+        "1872889",
+        "8689813",
+        "20040334",
+        "17011540",
+        "16531626",
+        "9321764",
+        "9110365",
+        "11214777",
+        "31257615",
+        "15110095",
+        "27509179",
+        "11773863",
+        "16003747",
+        "21750470",
+        "9565293",
+        "9891107",
+        "9682266",
+        "8287065",
+        "27223070",
+        "8001235",
+        "8923605",
+        "10762005",
+        "8081359",
+        "35928262",
+        "17505821",
+        "21946899",
+        "16570187",
+        "15032315",
+        "18167504",
+        "17434923",
+        "33815485",
+        "18680467",
+        "19336229",
+        "7669073",
+        "20801937",
+        "22970273",
+        "24221535",
+        "11337936"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*10",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "17434923",
+        "18680467"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*14",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801279",
+          "chrom": "chr8",
+          "pos": 18400194,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "8102597",
+        "9154882",
+        "28653770",
+        "7668286",
+        "22092036",
+        "9110365",
+        "24444407",
+        "21750470",
+        "9565293",
+        "24221535",
+        "10762005",
+        "8081359",
+        "17505821",
+        "21946899",
+        "17434923",
+        "18680467",
+        "11337936",
+        "29273096"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*15",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "28523442"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*16",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "9154882",
+        "28653770",
+        "30564082",
+        "15558239",
+        "7668286",
+        "10744128",
+        "9333101",
+        "17011540",
+        "9321764",
+        "11214777",
+        "27509179",
+        "20801937",
+        "9891107",
+        "9565293",
+        "9682266",
+        "24221535",
+        "8923605",
+        "10762005",
+        "28752039",
+        "21946899",
+        "15564878",
+        "7669073",
+        "10574910",
+        "15564878"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*19",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "18680467",
+        "12222688",
+        "9173883"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    },
+    {
+      "allele": "*21",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*27",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19164093",
+        "29273096"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*29",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "10762005",
+        "28523442",
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*30",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "15558239",
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*31",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "19909761",
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*32",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "1559981",
+        "9173883",
+        "19909761",
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*33",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "19164093",
+        "19909761",
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*34",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "28523442",
+        "9154882",
+        "15558239",
+        "17011540",
+        "28959610"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*35",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*36",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*37",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "29273096"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*38",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*39",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "24533708",
+        "19909761"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*40",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "28959610",
+        "17434923",
+        "18680467",
+        "11337936"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*41",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*42",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*43",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761",
+        "24444407"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*44",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761",
+        "28959610",
+        "24444407"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*45",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "19909761",
+        "24444407"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*46",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "28523442",
+        "28959610",
+        "18680467",
+        "10574910"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": null
+    },
+    {
+      "allele": "*47",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "18680467",
+        "19909761",
+        "24533708"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    },
+    {
+      "allele": "*48",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "17434923",
+        "18680467",
+        "17264801"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    },
+    {
+      "allele": "*49",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*50",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*51",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "26620671",
+        "29273096"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*52",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "29273096"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*53",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*54",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "19909761"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": null
+    },
+    {
+      "allele": "*55",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*56",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*57",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*58",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "29273096"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*59",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1801280",
+          "chrom": "chr8",
+          "pos": 18400344,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "18680467"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*60",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*61",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*62",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*63",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*64",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*65",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*66",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*67",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "29273096"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*68",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "18680467"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*69",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799930",
+          "chrom": "chr8",
+          "pos": 18400593,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "19164093",
+        "29273096"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*70",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "15564878",
+        "35588539"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    },
+    {
+      "allele": "*71",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*72",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "15564878"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": null
+    },
+    {
+      "allele": "*73",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "15564878"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    },
+    {
+      "allele": "*74",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": null
+    },
+    {
+      "allele": "*75",
+      "function": "Decreased function",
+      "activity_value": 0.5,
+      "defining_variants": [
+        {
+          "rsid": "rs1799931",
+          "chrom": "chr8",
+          "pos": 18400860,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "slow acetylator"
+        }
+      ],
+      "citations": [
+        "15564878"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": null
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

@@ -1,0 +1,3972 @@
+{
+  "gene": "G6PD",
+  "chromosome": "chrX",
+  "gene_tier": "group2",
+  "biomarker_type": "metabolic_enzyme",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs78365220",
+      "chrom": "chrX",
+      "pos": 154535270,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.383T>G;c.383T>C",
+      "protein_location": "p.L128R;p.L128P"
+    },
+    {
+      "rsid": "rs5030869",
+      "chrom": "chrX",
+      "pos": 154532990,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.1003G>A",
+      "protein_location": "p.A335T"
+    },
+    {
+      "rsid": "rs137852329",
+      "chrom": "chrX",
+      "pos": 154532765,
+      "ref": "G",
+      "alt": "T",
+      "name": "c.1089C>G;c.1089C>A",
+      "protein_location": "p.N363K;N363K"
+    },
+    {
+      "rsid": "rs1050828",
+      "chrom": "chrX",
+      "pos": 154536002,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.202G>A",
+      "protein_location": "p.V68M"
+    },
+    {
+      "rsid": "rs137852314",
+      "chrom": "chrX",
+      "pos": 154534495,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.487G>A",
+      "protein_location": "p.G163S"
+    },
+    {
+      "rsid": "rs137852335",
+      "chrom": "chrX",
+      "pos": 154532674,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.1180G>C",
+      "protein_location": "p.V394L"
+    },
+    {
+      "rsid": "rs137852323",
+      "chrom": "chrX",
+      "pos": 154532626,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.1228G>T",
+      "protein_location": "p.G410C"
+    },
+    {
+      "rsid": "rs137852325",
+      "chrom": "chrX",
+      "pos": 154532662,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.1192G>A",
+      "protein_location": "p.E398K"
+    },
+    {
+      "rsid": "rs72554665",
+      "chrom": "chrX",
+      "pos": 154532269,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.1376G>T;c.1376G>C",
+      "protein_location": "p.R459L;p.R459P"
+    },
+    {
+      "rsid": "rs78478128",
+      "chrom": "chrX",
+      "pos": 154536168,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.131C>G",
+      "protein_location": "p.A44G"
+    },
+    {
+      "rsid": "rs76645461",
+      "chrom": "chrX",
+      "pos": 154536156,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.143T>C",
+      "protein_location": "p.I48T"
+    },
+    {
+      "rsid": "rs137852315",
+      "chrom": "chrX",
+      "pos": 154536032,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.172G>A",
+      "protein_location": "p.D58N"
+    },
+    {
+      "rsid": "rs137852349",
+      "chrom": "chrX",
+      "pos": 154535996,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.208T>C",
+      "protein_location": "p.Y70H"
+    },
+    {
+      "rsid": "rs782090947",
+      "chrom": "chrX",
+      "pos": 154535995,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.209A>G",
+      "protein_location": "p.Y70C"
+    },
+    {
+      "rsid": "rs138687036",
+      "chrom": "chrX",
+      "pos": 154535963,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.241C>T",
+      "protein_location": "p.R81C"
+    },
+    {
+      "rsid": "rs782308266",
+      "chrom": "chrX",
+      "pos": 154535962,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.242G>A",
+      "protein_location": "p.R81H"
+    },
+    {
+      "rsid": "rs181277621",
+      "chrom": "chrX",
+      "pos": 154535342,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.311G>A",
+      "protein_location": "p.R104H"
+    },
+    {
+      "rsid": "rs267606835",
+      "chrom": "chrX",
+      "pos": 154535336,
+      "ref": "G",
+      "alt": "C",
+      "name": "c.317C>G",
+      "protein_location": "p.S106C"
+    },
+    {
+      "rsid": "rs5030870",
+      "chrom": "chrX",
+      "pos": 154535316,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.337G>A",
+      "protein_location": "p.D113N"
+    },
+    {
+      "rsid": "rs1050829",
+      "chrom": "chrX",
+      "pos": 154535277,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.376A>G",
+      "protein_location": "p.N126D"
+    },
+    {
+      "rsid": "rs782322505",
+      "chrom": "chrX",
+      "pos": 154535249,
+      "ref": "T",
+      "alt": "G",
+      "name": "c.404A>C",
+      "protein_location": "p.N135T"
+    },
+    {
+      "rsid": "rs137852313",
+      "chrom": "chrX",
+      "pos": 154535187,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.466G>A",
+      "protein_location": "p.E156K"
+    },
+    {
+      "rsid": "rs782487723",
+      "chrom": "chrX",
+      "pos": 154535180,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.473G>A",
+      "protein_location": "p.C158Y"
+    },
+    {
+      "rsid": "rs370918918",
+      "chrom": "chrX",
+      "pos": 154535176,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.477G>C",
+      "protein_location": "p.M159I"
+    },
+    {
+      "rsid": "rs5030872",
+      "chrom": "chrX",
+      "pos": 154534440,
+      "ref": "T",
+      "alt": "A",
+      "name": "c.542A>T",
+      "protein_location": "p.D181V"
+    },
+    {
+      "rsid": "rs267606836",
+      "chrom": "chrX",
+      "pos": 154534438,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.544C>T",
+      "protein_location": "p.R182W"
+    },
+    {
+      "rsid": "rs5030868",
+      "chrom": "chrX",
+      "pos": 154534419,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.563C>T",
+      "protein_location": "p.S188F"
+    },
+    {
+      "rsid": "rs137852330",
+      "chrom": "chrX",
+      "pos": 154534390,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.592C>T",
+      "protein_location": "p.R198C"
+    },
+    {
+      "rsid": "rs137852332",
+      "chrom": "chrX",
+      "pos": 154534389,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.593G>A;c.593G>C",
+      "protein_location": "p.R198H;p.R198P"
+    },
+    {
+      "rsid": "rs781865768",
+      "chrom": "chrX",
+      "pos": 154534387,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.595A>G",
+      "protein_location": "p.I199V"
+    },
+    {
+      "rsid": "rs782754619",
+      "chrom": "chrX",
+      "pos": 154534348,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.634A>G",
+      "protein_location": "p.M212V"
+    },
+    {
+      "rsid": "rs137852326",
+      "chrom": "chrX",
+      "pos": 154534345,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.637G>T",
+      "protein_location": "p.V213L"
+    },
+    {
+      "rsid": "rs137852319",
+      "chrom": "chrX",
+      "pos": 154534157,
+      "ref": "A",
+      "alt": "C",
+      "name": "c.648T>G",
+      "protein_location": "p.F216L"
+    },
+    {
+      "rsid": "rs137852328",
+      "chrom": "chrX",
+      "pos": 154534125,
+      "ref": "C",
+      "alt": "A",
+      "name": "c.680G>A;c.680G>T",
+      "protein_location": "p.R227Q;p.R227L"
+    },
+    {
+      "rsid": "rs782757170",
+      "chrom": "chrX",
+      "pos": 154534102,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.703C>T",
+      "protein_location": "p.L235F"
+    },
+    {
+      "rsid": "rs137852346",
+      "chrom": "chrX",
+      "pos": 154533634,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.806G>A",
+      "protein_location": "p.C269Y"
+    },
+    {
+      "rsid": "rs137852318",
+      "chrom": "chrX",
+      "pos": 154533596,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.844G>T;c.844G>C",
+      "protein_location": "p.D282H;p.D282Y"
+    },
+    {
+      "rsid": "rs137852340",
+      "chrom": "chrX",
+      "pos": 154546061,
+      "ref": "T",
+      "alt": "C",
+      "name": "c.95A>G",
+      "protein_location": "p.H32R"
+    },
+    {
+      "rsid": "rs137852338",
+      "chrom": "chrX",
+      "pos": 154546051,
+      "ref": null,
+      "alt": null,
+      "name": "c.103_105delATC",
+      "protein_location": "p.I35del"
+    },
+    {
+      "rsid": "rs34193178",
+      "chrom": "chrX",
+      "pos": 154532945,
+      "ref": "C",
+      "alt": "G",
+      "name": "c.1048G>C",
+      "protein_location": "p.D350H"
+    },
+    {
+      "rsid": "rs137852333",
+      "chrom": "chrX",
+      "pos": 154532797,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.1057C>T",
+      "protein_location": "p.P353S"
+    },
+    {
+      "rsid": "rs137852345",
+      "chrom": "chrX",
+      "pos": 154532772,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.1082C>T",
+      "protein_location": "p.A361V"
+    },
+    {
+      "rsid": "rs371489738",
+      "chrom": "chrX",
+      "pos": 154532722,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.1132G>A",
+      "protein_location": "p.G378S"
+    },
+    {
+      "rsid": "rs74575103",
+      "chrom": "chrX",
+      "pos": 154533586,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.854G>A",
+      "protein_location": "p.R285H"
+    },
+    {
+      "rsid": "rs137852327",
+      "chrom": "chrX",
+      "pos": 154533122,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.871G>A",
+      "protein_location": "p.V291M"
+    },
+    {
+      "rsid": "rs137852339",
+      "chrom": "chrX",
+      "pos": 154533044,
+      "ref": "C",
+      "alt": "T",
+      "name": "c.949G>A",
+      "protein_location": "p.E317K"
+    },
+    {
+      "rsid": "rs137852347",
+      "chrom": "chrX",
+      "pos": 154533029,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.964T>C",
+      "protein_location": "p.Y322H"
+    },
+    {
+      "rsid": "rs76723693",
+      "chrom": "chrX",
+      "pos": 154533025,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.968T>C",
+      "protein_location": "p.L323P"
+    },
+    {
+      "rsid": "rs137852342",
+      "chrom": "chrX",
+      "pos": 154532969,
+      "ref": "G",
+      "alt": "A",
+      "name": "c.1024C>T",
+      "protein_location": "p.L342F"
+    },
+    {
+      "rsid": "rs137852322",
+      "chrom": "chrX",
+      "pos": 154532701,
+      "ref": "A",
+      "alt": "G",
+      "name": "c.1153T>C",
+      "protein_location": "p.C385R"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "202G>A_376A>G_1264C>G",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "18677765",
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "A",
+      "function": "IV/Normal",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "1303173",
+        "22293322",
+        "32387609",
+        "3446582"
+      ],
+      "evidence_strength": "moderate",
+      "frequency": {
+        "Latino": 0.014873203,
+        "European": 0.00054859073,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0007337911,
+        "African American/Afro-Caribbean": 0.3183956
+      }
+    },
+    {
+      "allele": "A- 202A_376G",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [
+        {
+          "rsid": "rs1050828",
+          "chrom": "chrX",
+          "pos": 154536002,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "deficient (Mediterranean)"
+        },
+        {
+          "rsid": "rs1050829",
+          "chrom": "chrX",
+          "pos": 154535277,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "deficient"
+        }
+      ],
+      "citations": [
+        "22293322",
+        "32387609",
+        "2572288"
+      ],
+      "evidence_strength": "strong",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "A- 680T_376G",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [
+        {
+          "rsid": "rs1050828",
+          "chrom": "chrX",
+          "pos": 154536002,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "deficient (Mediterranean)"
+        },
+        {
+          "rsid": "rs1050829",
+          "chrom": "chrX",
+          "pos": 154535277,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "deficient"
+        }
+      ],
+      "citations": [
+        "22293322",
+        "32387609",
+        "2572288"
+      ],
+      "evidence_strength": "strong",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "A- 968C_376G",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [
+        {
+          "rsid": "rs1050828",
+          "chrom": "chrX",
+          "pos": 154536002,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "deficient (Mediterranean)"
+        },
+        {
+          "rsid": "rs1050829",
+          "chrom": "chrX",
+          "pos": 154535277,
+          "ref": "G",
+          "alt": "A",
+          "functional_impact": "deficient"
+        }
+      ],
+      "citations": [
+        "22293322",
+        "32387609",
+        "2572288"
+      ],
+      "evidence_strength": "strong",
+      "frequency": {
+        "Latino": 0.0007489835,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0054458817
+      }
+    },
+    {
+      "allele": "Aachen",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10772881",
+        "1270075"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Abeno",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22963789",
+        "1945893",
+        "11271380"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Acrokorinthos",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "15223006",
+        "2393028"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Alhambra",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "5413384",
+        "4405605",
+        "7803800"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Amazonia",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12367584"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Amiens",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Amsterdam",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12130518"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Anadia",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893",
+        "18056001"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Ananindeua",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "12367584"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Andalus",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12497642",
+        "32425388",
+        "16088936",
+        "2393028"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 7.233273e-05,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Arakawa",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Asahi",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "11852882"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0041368,
+        "European": 0.00016199434,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.00036695323,
+        "African American/Afro-Caribbean": 0.11640658
+      }
+    },
+    {
+      "allele": "Asahikawa",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9192788",
+        "6500558"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Aures",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "33413378",
+        "22963789",
+        "23006493",
+        "8860007",
+        "7959686",
+        "18226470",
+        "8490627"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.00014428973,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Aveiro",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10666231"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "B (reference)",
+      "function": "IV/Normal",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2572288"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.9772377,
+        "European": 0.99463695,
+        "East Asian": 0.97378683,
+        "Central/South Asian": 0.9557555,
+        "African American/Afro-Caribbean": 0.55657554
+      }
+    },
+    {
+      "allele": "Bajo Maumere",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16927025"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Bangkok",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "21302115"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Bangkok Noi",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "21302115"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Bao Loc",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17726510"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Bari",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8808605",
+        "7959695"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Belem",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12367584"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Beverly Hills, Genova, Iwate, Niigata, Yamaguchi",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7440223",
+        "2307454",
+        "9192788"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Brighton",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Buenos Aires",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18086567"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Cairo",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893",
+        "22770933"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Calvo Mackenna",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7655862"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Campinas",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8477268"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Canton, Taiwan-Hakka, Gifu-like, Agrigento-like",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2263506",
+        "1953767",
+        "22963789"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 3.574748e-05,
+        "European": 0.0,
+        "East Asian": 0.010610976,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Cassano",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8447319",
+        "10782016"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Chatham",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7959686",
+        "3393536"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 6.178815e-05,
+        "East Asian": 7.2196955e-05,
+        "Central/South Asian": 0.0013113035,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Chikugo",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Chinese-1",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1459579"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Chinese-5",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8471773"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0016838418,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 5.2534804e-05
+      }
+    },
+    {
+      "allele": "Cincinnati",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "20949590"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Cleveland Corum",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7803800",
+        "7577654"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Clinic",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7825590"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Coimbra Shunde",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1551674",
+        "8471773"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 1.0230493e-05,
+        "East Asian": 7.214487e-05,
+        "Central/South Asian": 0.00020966558,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Cosenza",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7959686",
+        "8447319"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 1.0319598e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Costanzo",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Covao do Lobo",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16079115"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Crispim",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12367584"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Dagua",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.000104821804,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Durham",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9290617"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Farroupilha",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10627140"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Figuera da Foz",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18056001"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Flores",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "15065213"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Fukaya",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Fushan",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7803800"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Gaohe",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0019558913,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Georgia",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7803800"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Gidra",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9410474"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Gond",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "20713184"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": 3.5645542e-05,
+        "European": 4.5109253e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.008700666,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Guadalajara",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "7129446"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Guangzhou",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16607506"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Haikou",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11295127"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Hammersmith",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12064901",
+        "10192449"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Harilaou",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2222408"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 3.647638e-05,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Harima",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Hartford",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Hechi",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17018380"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Hermoupolis",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10782016"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Honiara",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7726184"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Ierapetra",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Ilesha",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7959686",
+        "848857"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0011765126,
+        "European": 9.013232e-06,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.00041928721,
+        "African American/Afro-Caribbean": 0.00052700925
+      }
+    },
+    {
+      "allele": "Insuli",
+      "function": "IV/Normal",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12737940"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Iowa, Walter Reed, Springfield",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2602358"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Iwatsuki",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Japan, Shinagawa",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8193373",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Kaiping, Anant, Dhon, Sapporo-like, Wosera",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8935319",
+        "1953767"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0070355837,
+        "Central/South Asian": 5.2762094e-05,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Kalyan-Kerala, Jamnaga, Rohini",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1303182",
+        "15996881"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 4.499883e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.011377339,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Kambos",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "15223006"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Kamiube, Keelung",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "511159",
+        "9192788",
+        "9444913"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Kamogawa",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9410474"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Kawasaki",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Kozukata",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9410474"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Krakow",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18066402"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "La Jolla",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "12064902"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Lages",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9526168"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Lagosanto",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8370579"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 1.0254307e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Laibin",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17018380"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Lille",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Liuzhou",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17018380"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Loma Linda",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1999409"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Ludhiana",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Lynwood",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Madrid",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9332310"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Mahidol",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2503817"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 7.218132e-05,
+        "Central/South Asian": 0.000366934,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Malaga",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8956035",
+        "22963789"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.00028541868,
+        "European": 1.806179e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0011595425
+      }
+    },
+    {
+      "allele": "Manhattan",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Mediterranean Haplotype",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [
+        {
+          "rsid": "rs5030868",
+          "chrom": "chrX",
+          "pos": 154534419,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "deficient"
+        }
+      ],
+      "citations": [
+        "22293322",
+        "1978554"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [
+        {
+          "rsid": "rs5030868",
+          "chrom": "chrX",
+          "pos": 154534419,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "deficient"
+        }
+      ],
+      "citations": [
+        "22293322",
+        "7959686",
+        "18226470",
+        "11146567",
+        "7440223",
+        "3393536"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0005865103,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.017349826,
+        "African American/Afro-Caribbean": 0.0002108926
+      }
+    },
+    {
+      "allele": "Metaponto",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2253938"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Mexico City",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.00018234865,
+        "European": 4.0952138e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Miaoli",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9444913"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Minnesota, Marion, Gastonia, LeJeune",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1999409",
+        "1805484"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 1.025599e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Mira d'Aire",
+      "function": "IV/Normal",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.00060634164,
+        "European": 9.038323e-06,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.00037544584
+      }
+    },
+    {
+      "allele": "Mizushima",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7705842"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Montalbano",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11146567",
+        "2321910"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 7.6028286e-05
+      }
+    },
+    {
+      "allele": "Montpellier",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 2.7188444e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Mt Sinai",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "9452072"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Munich",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17637841"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": 1.0226099e-05,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Murcia Oristano",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7577654",
+        "20621077"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 7.293148e-05,
+        "European": 1.0226099e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Musashino",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "3591235"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Namouru",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7825590"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.00020970956,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Nankang",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8807322",
+        "16329560"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.00014430014,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Nanning",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17018380"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.00033690452,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Naone",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11852882"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Nara",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8241497"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Nashville, Anaheim, Portici",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16934959",
+        "1999409",
+        "1536798"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Neapolis",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9233561"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Nice",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9233561"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Nilgiri",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18043863"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "No name",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "21446359"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "North Dallas",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Olomouc",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7655862"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Omiya",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Orissa",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8533762",
+        "20621077"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0016250786,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Osaka",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1945893",
+        "11271380"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Palestrina",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Papua",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9410474"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Partenope",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Pawnee",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Pedoplis-Ckaro",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18066402"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Piotrkow",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "18066402"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Plymouth",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7577654"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Praha",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7803800"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Puerto Limon",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7160841"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Quing Yan",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8471773"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Radlowo",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10571945"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Rehevot",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11112389"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Rignano",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "17524386"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Riley",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7655862"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Riverside",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2602358"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Roubaix",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "S. Antioco",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Salerno Pyrgos",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979",
+        "20621077"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Santa Maria",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7959686",
+        "1879833",
+        "9250351"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Santiago",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Santiago de Cuba, Morioka",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9192788",
+        "3393536"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Sao Borja",
+      "function": "IV/Normal",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8436389"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 5.4038475e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Seattle, Lodi, Modena, Ferrara II, Athens-like",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7959686",
+        "11146567",
+        "7705842",
+        "5844610",
+        "7947250"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0002496968,
+        "European": 0.0010703556,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.00073390646,
+        "African American/Afro-Caribbean": 5.2246603e-05
+      }
+    },
+    {
+      "allele": "Seoul",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "28028996",
+        "1945893"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Serres",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9674740"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Shenzen",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "20582980"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Shinshu",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8193373"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Sibari",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "8447319"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 1.0243173e-05,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 3.6485697e-05
+      }
+    },
+    {
+      "allele": "Sierra Leone",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "32387609",
+        "18452027"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": 3.5720663e-05,
+        "European": 0.0025682764,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.00031527507,
+        "African American/Afro-Caribbean": 0.00015804447
+      }
+    },
+    {
+      "allele": "Sinnai",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10627140"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Songklanagarind",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "15727905"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Split",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16143877"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Stonybrook",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1611091"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Sugao",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11594515"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Sumare",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9298828"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Sunderland",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "2005960"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Surabaya",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11499668"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 3.6485697e-05,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Suwalki",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "14757424"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Swansea",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7858267"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Taipei, Chinese-3",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1562739"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0008090069,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Telti, Kobe",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7327562"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Tenri",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Tokyo, Fukushima",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "28028996",
+        "7440223",
+        "9192788",
+        "1733837"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Toledo",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Tomah",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7655862"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Tondela",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "21397531"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Torun",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10571945"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Tsukui",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "3360447"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Ube Konan",
+      "function": "III/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "511159",
+        "7440223",
+        "20621077"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 7.135976e-05,
+        "European": 0.0,
+        "East Asian": 6.74127e-05,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.000105235464
+      }
+    },
+    {
+      "allele": "Union,Maewo, Chinese-2, Kalo",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "4405605",
+        "8447319",
+        "1303180",
+        "8935319"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.00017860332,
+        "European": 4.5371227e-05,
+        "East Asian": 0.0006079438,
+        "Central/South Asian": 0.00010502547,
+        "African American/Afro-Caribbean": 0.0004229671
+      }
+    },
+    {
+      "allele": "Urayasu",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7849299"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Utrecht",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "14757426"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Valladolid",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "9332310"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Vancouver",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1353664"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Vanua Lava",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "3591235"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Central/South Asian": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Viangchan, Jammu",
+      "function": "II/Deficient",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "1805484",
+        "3338798"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": {
+        "Latino": 0.0,
+        "European": 0.0,
+        "East Asian": 0.002528171,
+        "Central/South Asian": 0.0002621507,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "Villeurbanne",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "22139979"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Volendam",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "10556177"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Wayne",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "3565372"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "West Virginia",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7803800"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Wexham",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "7577654"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Wisconsin",
+      "function": "I/Deficient with CNSHA",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "16934959",
+        "7655862"
+      ],
+      "evidence_strength": "limited",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "Yunan",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22293322",
+        "11780463"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Central/South Asian": null,
+        "African American/Afro-Caribbean": null
+      }
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

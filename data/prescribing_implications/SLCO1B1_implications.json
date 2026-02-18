@@ -1,0 +1,176 @@
+{
+  "gene": "SLCO1B1",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 10,
+  "level_a_pairs": 7,
+  "level_b_pairs": 2,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "fluvastatin",
+          "drug_id": "RxNorm:41127",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "atorvastatin",
+          "drug_id": "RxNorm:83367",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atorvastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "rosuvastatin",
+          "drug_id": "RxNorm:301542",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Rosuvastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "lovastatin",
+          "drug_id": "RxNorm:6472",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lovastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "pitavastatin",
+          "drug_id": "RxNorm:861634",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pitavastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "pravastatin",
+          "drug_id": "RxNorm:42463",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pravastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "simvastatin",
+          "drug_id": "RxNorm:36567",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Simvastatin_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: fluvastatin, atorvastatin, rosuvastatin, lovastatin, pitavastatin, pravastatin, simvastatin. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "elagolix",
+          "drug_id": "RxNorm:2049846",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "cerivastatin",
+          "drug_id": "RxNorm:596723",
+          "cpic_level": "B",
+          "pharmgkb_level": "2A",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: elagolix, cerivastatin. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "fluvastatin",
+      "drug_id": "RxNorm:41127",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "atorvastatin",
+      "drug_id": "RxNorm:83367",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atorvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "rosuvastatin",
+      "drug_id": "RxNorm:301542",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Rosuvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "lovastatin",
+      "drug_id": "RxNorm:6472",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lovastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pitavastatin",
+      "drug_id": "RxNorm:861634",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pitavastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pravastatin",
+      "drug_id": "RxNorm:42463",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Pravastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "simvastatin",
+      "drug_id": "RxNorm:36567",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Simvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "elagolix",
+      "drug_id": "RxNorm:2049846",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "cerivastatin",
+      "drug_id": "RxNorm:596723",
+      "cpic_level": "B",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "methotrexate",
+      "drug_id": "RxNorm:6851",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    }
+  ]
+}

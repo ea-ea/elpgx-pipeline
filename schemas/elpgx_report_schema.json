@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pgx-pipeline/schemas/pgx_report.schema.json",
+  "title": "PGx Report",
+  "description": "Clinical pharmacogenetics report output schema v1.1.0",
+  "type": "object",
+  "required": ["schema_version", "meta", "results"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Schema version for this report format",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "meta": {
+      "type": "object",
+      "required": ["sample_id", "pipeline_version", "run_date", "reference_build", "pgx_db_version"],
+      "properties": {
+        "sample_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pipeline_version": {
+          "type": "string"
+        },
+        "run_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "reference_build": {
+          "type": "string",
+          "enum": ["GRCh38", "GRCh37"]
+        },
+        "pgx_db_version": {
+          "type": "string"
+        },
+        "gene_tiers_included": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["group1", "group2", "group3", "group4"]
+          }
+        },
+        "hla_module_enabled": {
+          "type": "boolean"
+        },
+        "provenance": {
+          "type": "object",
+          "description": "Complete provenance information for reproducibility and audit trail",
+          "properties": {
+            "git_commit": {
+              "type": ["string", "null"],
+              "description": "Git commit hash of pipeline code"
+            },
+            "git_branch": {
+              "type": ["string", "null"],
+              "description": "Git branch name"
+            },
+            "nextflow_version": {
+              "type": ["string", "null"],
+              "description": "Nextflow version used"
+            },
+            "docker_images": {
+              "type": "object",
+              "description": "Docker image names mapped to their tags/digests",
+              "additionalProperties": {
+                "type": "string"
+              }
+            },
+            "reference_fasta_md5": {
+              "type": ["string", "null"],
+              "description": "MD5 checksum of reference FASTA"
+            },
+            "reference_fasta_path": {
+              "type": ["string", "null"],
+              "description": "Path to reference FASTA used"
+            },
+            "pgx_db_hash": {
+              "type": ["string", "null"],
+              "description": "SHA256 hash of combined PGx database files"
+            },
+            "input_bam_md5": {
+              "type": ["string", "null"],
+              "description": "MD5 checksum of input BAM/CRAM"
+            },
+            "variant_caller": {
+              "type": "string",
+              "description": "Variant caller used (e.g., GATK HaplotypeCaller)"
+            },
+            "variant_caller_version": {
+              "type": ["string", "null"],
+              "description": "Version of variant caller"
+            }
+          }
+        }
+      }
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["gene", "gene_tier", "biomarker_type", "diplotype", "phenotype", "confidence"],
+        "properties": {
+          "gene": {
+            "type": "string",
+            "minLength": 1
+          },
+          "gene_tier": {
+            "type": "string",
+            "enum": ["group1", "group2", "group3", "group4"]
+          },
+          "biomarker_type": {
+            "type": "string",
+            "enum": ["metabolic_enzyme", "transporter", "drug_target", "hla", "other"]
+          },
+          "diplotype": {
+            "type": "string"
+          },
+          "functional_status": {
+            "type": "string"
+          },
+          "phenotype": {
+            "type": "string"
+          },
+          "activity_score": {
+            "type": ["number", "null"]
+          },
+          "prescribing_implication": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "object",
+            "required": ["score"],
+            "properties": {
+              "score": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              },
+              "flags": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["LOW_DEPTH", "LOW_QUALITY", "INCOMPLETE_ALLELE", "AMBIGUOUS_CALL", "NO_CALL", "NO_DEFINING_VARIANTS", "COMPLEX_LOCUS_SHORT_READ"]
+                }
+              },
+              "variant_depth_stats": {
+                "type": ["object", "null"],
+                "properties": {
+                  "mean_depth": {"type": "number"},
+                  "min_depth": {"type": "integer"}
+                }
+              }
+            }
+          },
+          "variants": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["chrom", "pos", "ref", "alt", "genotype", "quality", "depth"],
+              "properties": {
+                "rsid": {"type": ["string", "null"]},
+                "chrom": {"type": "string"},
+                "pos": {"type": "integer"},
+                "ref": {"type": "string"},
+                "alt": {"type": "string"},
+                "genotype": {"type": "string"},
+                "quality": {"type": "number"},
+                "depth": {"type": "integer"},
+                "allele_defining": {"type": "boolean"},
+                "star_allele": {"type": ["string", "null"]},
+                "functional_impact": {"type": ["string", "null"]}
+              }
+            }
+          }
+        }
+      }
+    },
+    "warnings": {
+      "type": "array",
+      "items": {"type": "string"}
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "gene": "CYP3A5",
+  "chromosome": "chr7",
+  "gene_tier": "group2",
+  "biomarker_type": "metabolic_enzyme",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs55817950",
+      "chrom": "chr7",
+      "pos": 99676198,
+      "ref": "G",
+      "alt": "A",
+      "name": "3699C>T",
+      "protein_location": "p.R28C"
+    },
+    {
+      "rsid": "rs776746",
+      "chrom": "chr7",
+      "pos": 99672916,
+      "ref": "T",
+      "alt": "C",
+      "name": "6981A>G",
+      "protein_location": "splicing defect"
+    },
+    {
+      "rsid": "rs10264272",
+      "chrom": "chr7",
+      "pos": 99665212,
+      "ref": "C",
+      "alt": "T",
+      "name": "14685G>A",
+      "protein_location": "splicing defect"
+    },
+    {
+      "rsid": "rs28383479",
+      "chrom": "chr7",
+      "pos": 99660516,
+      "ref": "C",
+      "alt": "T",
+      "name": "19381G>A",
+      "protein_location": "p.A337T"
+    },
+    {
+      "rsid": "rs41303343",
+      "chrom": "chr7",
+      "pos": 99652771,
+      "ref": null,
+      "alt": null,
+      "name": "27126_27127insT",
+      "protein_location": "p.T346fs"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "*1",
+      "function": "Normal function",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "12893984"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.17279238,
+        "European": 0.07410407,
+        "East Asian": 0.25355196,
+        "Near Eastern": 0.121941924,
+        "Central/South Asian": 0.32672024,
+        "Sub-Saharan African": 0.47940862,
+        "African American/Afro-Caribbean": 0.4528548
+      }
+    },
+    {
+      "allele": "*3",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [
+        {
+          "rsid": "rs776746",
+          "chrom": "chr7",
+          "pos": 99672916,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "no function (splice defect)"
+        }
+      ],
+      "citations": [
+        "15179407"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.7651353,
+        "European": 0.9243815,
+        "East Asian": 0.7457923,
+        "Near Eastern": 0.83611745,
+        "Central/South Asian": 0.67327976,
+        "Sub-Saharan African": 0.24094562,
+        "African American/Afro-Caribbean": 0.31597915
+      }
+    },
+    {
+      "allele": "*6",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [
+        {
+          "rsid": "rs10264272",
+          "chrom": "chr7",
+          "pos": 99665212,
+          "ref": "C",
+          "alt": "T",
+          "functional_impact": "no function"
+        }
+      ],
+      "citations": [
+        "11279519"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.037054006,
+        "European": 0.0015144596,
+        "East Asian": 0.0006557377,
+        "Near Eastern": 0.038085584,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": 0.19323565,
+        "African American/Afro-Caribbean": 0.11116607
+      }
+    },
+    {
+      "allele": "*7",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [
+        {
+          "rsid": "rs41303343",
+          "chrom": "chr7",
+          "pos": 99652771,
+          "ref": "A",
+          "alt": "-",
+          "functional_impact": "no function (frameshift)"
+        }
+      ],
+      "citations": [
+        "14515058"
+      ],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.02501835,
+        "European": 0.0,
+        "East Asian": 0.0,
+        "Near Eastern": 0.00385505,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.08641013,
+        "African American/Afro-Caribbean": 0.12
+      }
+    },
+    {
+      "allele": "*8",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*9",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": null,
+        "European": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

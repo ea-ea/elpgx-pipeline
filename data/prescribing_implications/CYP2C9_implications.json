@@ -1,0 +1,368 @@
+{
+  "gene": "CYP2C9",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 26,
+  "level_a_pairs": 12,
+  "level_b_pairs": 5,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "celecoxib",
+          "drug_id": "RxNorm:140587",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Celecoxib_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "fluvastatin",
+          "drug_id": "RxNorm:41127",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "flurbiprofen",
+          "drug_id": "RxNorm:4502",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Flurbiprofen_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "fosphenytoin",
+          "drug_id": "RxNorm:72236",
+          "cpic_level": "A",
+          "pharmgkb_level": null,
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fosphenytoin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "ibuprofen",
+          "drug_id": "RxNorm:5640",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Ibuprofen_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "lornoxicam",
+          "drug_id": "RxNorm:20890",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lornoxicam_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "meloxicam",
+          "drug_id": "RxNorm:41493",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Meloxicam_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "phenytoin",
+          "drug_id": "RxNorm:8183",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Phenytoin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "piroxicam",
+          "drug_id": "RxNorm:8356",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Piroxicam_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "siponimod",
+          "drug_id": "RxNorm:2121085",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "tenoxicam",
+          "drug_id": "RxNorm:37790",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tenoxicam_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "warfarin",
+          "drug_id": "RxNorm:11289",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": null
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: celecoxib, fluvastatin, flurbiprofen, fosphenytoin, ibuprofen, lornoxicam, meloxicam, phenytoin, piroxicam, siponimod, tenoxicam, warfarin. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "acenocoumarol",
+          "drug_id": "RxNorm:154",
+          "cpic_level": "B",
+          "pharmgkb_level": "1B",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "avatrombopag",
+          "drug_id": "RxNorm:2045726",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "dronabinol",
+          "drug_id": "RxNorm:224925",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "erdafitinib",
+          "drug_id": "RxNorm:2123125",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "lesinurad",
+          "drug_id": "RxNorm:1731031",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: acenocoumarol, avatrombopag, dronabinol, erdafitinib, lesinurad. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "celecoxib",
+      "drug_id": "RxNorm:140587",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Celecoxib_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "fluvastatin",
+      "drug_id": "RxNorm:41127",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "flurbiprofen",
+      "drug_id": "RxNorm:4502",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Flurbiprofen_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "fosphenytoin",
+      "drug_id": "RxNorm:72236",
+      "cpic_level": "A",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fosphenytoin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "ibuprofen",
+      "drug_id": "RxNorm:5640",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Ibuprofen_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "lornoxicam",
+      "drug_id": "RxNorm:20890",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Lornoxicam_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "meloxicam",
+      "drug_id": "RxNorm:41493",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Meloxicam_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "phenytoin",
+      "drug_id": "RxNorm:8183",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Phenytoin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "piroxicam",
+      "drug_id": "RxNorm:8356",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Piroxicam_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "siponimod",
+      "drug_id": "RxNorm:2121085",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tenoxicam",
+      "drug_id": "RxNorm:37790",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tenoxicam_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "warfarin",
+      "drug_id": "RxNorm:11289",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "acenocoumarol",
+      "drug_id": "RxNorm:154",
+      "cpic_level": "B",
+      "pharmgkb_level": "1B",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "avatrombopag",
+      "drug_id": "RxNorm:2045726",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dronabinol",
+      "drug_id": "RxNorm:224925",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "erdafitinib",
+      "drug_id": "RxNorm:2123125",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "lesinurad",
+      "drug_id": "RxNorm:1731031",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "diclofenac",
+      "drug_id": "RxNorm:3355",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "aceclofenac",
+      "drug_id": "RxNorm:16689",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "aspirin",
+      "drug_id": "RxNorm:1191",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "flibanserin",
+      "drug_id": "RxNorm:1665509",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "indomethacin",
+      "drug_id": "RxNorm:5781",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "lumiracoxib",
+      "drug_id": "ATC:M01AH06",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "metamizole",
+      "drug_id": "RxNorm:3523",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "nabumetone",
+      "drug_id": "RxNorm:31448",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "naproxen",
+      "drug_id": "RxNorm:7258",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    }
+  ]
+}

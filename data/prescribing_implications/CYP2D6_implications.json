@@ -1,0 +1,1088 @@
+{
+  "gene": "CYP2D6",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 80,
+  "level_a_pairs": 15,
+  "level_b_pairs": 38,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "amitriptyline",
+          "drug_id": "RxNorm:704",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Amitriptyline_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "atomoxetine",
+          "drug_id": "RxNorm:38400",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atomoxetine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "nortriptyline",
+          "drug_id": "RxNorm:7531",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Nortriptyline_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "vortioxetine",
+          "drug_id": "RxNorm:1455099",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Vortioxetine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "codeine",
+          "drug_id": "RxNorm:2670",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Codeine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "ondansetron",
+          "drug_id": "RxNorm:26225",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Ondansetron_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "paroxetine",
+          "drug_id": "RxNorm:32937",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Paroxetine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "pitolisant",
+          "drug_id": "RxNorm:2197878",
+          "cpic_level": "A",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "tamoxifen",
+          "drug_id": "RxNorm:10324",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tamoxifen_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "tramadol",
+          "drug_id": "RxNorm:10689",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tramadol_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "tropisetron",
+          "drug_id": "RxNorm:27392",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tropisetron_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "eliglustat",
+          "drug_id": "RxNorm:1547220",
+          "cpic_level": "A/B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "oliceridine",
+          "drug_id": "RxNorm:2392230",
+          "cpic_level": "A/B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "pimozide",
+          "drug_id": "RxNorm:8331",
+          "cpic_level": "A/B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "tetrabenazine",
+          "drug_id": "RxNorm:10390",
+          "cpic_level": "A/B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: amitriptyline, atomoxetine, nortriptyline, vortioxetine, codeine, ondansetron, paroxetine, pitolisant, tamoxifen, tramadol, tropisetron, eliglustat, oliceridine, pimozide, tetrabenazine. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "deutetrabenazine",
+          "drug_id": "RxNorm:1876905",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "tamsulosin",
+          "drug_id": "RxNorm:77492",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "clomipramine",
+          "drug_id": "RxNorm:2597",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clomipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "iloperidone",
+          "drug_id": "RxNorm:73178",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "labetalol",
+          "drug_id": "RxNorm:6185",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "meclizine",
+          "drug_id": "RxNorm:6676",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "mirabegron",
+          "drug_id": "RxNorm:1300786",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "lofexidine",
+          "drug_id": "RxNorm:28863",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "fluvoxamine",
+          "drug_id": "RxNorm:42355",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvoxamine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "metoprolol",
+          "drug_id": "RxNorm:6918",
+          "cpic_level": "B",
+          "pharmgkb_level": null,
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Metoprolol_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "desipramine",
+          "drug_id": "RxNorm:3247",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Desipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "doxepin",
+          "drug_id": "RxNorm:3638",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Doxepin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "hydrocodone",
+          "drug_id": "RxNorm:5489",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Hydrocodone_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "imipramine",
+          "drug_id": "RxNorm:5691",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Imipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "risperidone",
+          "drug_id": "RxNorm:35636",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "trimipramine",
+          "drug_id": "RxNorm:10834",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Trimipramine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "venlafaxine",
+          "drug_id": "RxNorm:39786",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Venlafaxine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "amoxapine",
+          "drug_id": "RxNorm:722",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "amphetamine",
+          "drug_id": "RxNorm:725",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "aripiprazole lauroxil",
+          "drug_id": "RxNorm:1673265",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "brexpiprazole",
+          "drug_id": "RxNorm:1658314",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "cevimeline",
+          "drug_id": "RxNorm:44281",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "clozapine",
+          "drug_id": "RxNorm:2626",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "dextromethorphan",
+          "drug_id": "RxNorm:3289",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "donepezil",
+          "drug_id": "RxNorm:135447",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "flecainide",
+          "drug_id": "RxNorm:4441",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "gefitinib",
+          "drug_id": "RxNorm:328134",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "haloperidol",
+          "drug_id": "RxNorm:5093",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "metoclopramide",
+          "drug_id": "RxNorm:6915",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "mirtazapine",
+          "drug_id": "RxNorm:15996",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "2A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "perphenazine",
+          "drug_id": "RxNorm:8076",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "protriptyline",
+          "drug_id": "RxNorm:8886",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "thioridazine",
+          "drug_id": "RxNorm:10502",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "timolol",
+          "drug_id": "RxNorm:10600",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "valbenazine",
+          "drug_id": "RxNorm:1918219",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "zuclopenthixol",
+          "drug_id": "RxNorm:114176",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "aripiprazole",
+          "drug_id": "RxNorm:89013",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "propafenone",
+          "drug_id": "RxNorm:8754",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: deutetrabenazine, tamsulosin, clomipramine, iloperidone, labetalol, meclizine, mirabegron, lofexidine, fluvoxamine, metoprolol, desipramine, doxepin, hydrocodone, imipramine, risperidone, trimipramine, venlafaxine, amoxapine, amphetamine, aripiprazole lauroxil, brexpiprazole, cevimeline, clozapine, dextromethorphan, donepezil, flecainide, gefitinib, haloperidol, metoclopramide, mirtazapine, perphenazine, protriptyline, thioridazine, timolol, valbenazine, zuclopenthixol, aripiprazole, propafenone. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "amitriptyline",
+      "drug_id": "RxNorm:704",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Amitriptyline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "atomoxetine",
+      "drug_id": "RxNorm:38400",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atomoxetine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "nortriptyline",
+      "drug_id": "RxNorm:7531",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Nortriptyline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "vortioxetine",
+      "drug_id": "RxNorm:1455099",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Vortioxetine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "codeine",
+      "drug_id": "RxNorm:2670",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Codeine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "ondansetron",
+      "drug_id": "RxNorm:26225",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Ondansetron_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "paroxetine",
+      "drug_id": "RxNorm:32937",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Paroxetine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pitolisant",
+      "drug_id": "RxNorm:2197878",
+      "cpic_level": "A",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tamoxifen",
+      "drug_id": "RxNorm:10324",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tamoxifen_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "tramadol",
+      "drug_id": "RxNorm:10689",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tramadol_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "tropisetron",
+      "drug_id": "RxNorm:27392",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Tropisetron_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "eliglustat",
+      "drug_id": "RxNorm:1547220",
+      "cpic_level": "A/B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "oliceridine",
+      "drug_id": "RxNorm:2392230",
+      "cpic_level": "A/B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "pimozide",
+      "drug_id": "RxNorm:8331",
+      "cpic_level": "A/B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tetrabenazine",
+      "drug_id": "RxNorm:10390",
+      "cpic_level": "A/B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "deutetrabenazine",
+      "drug_id": "RxNorm:1876905",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tamsulosin",
+      "drug_id": "RxNorm:77492",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "clomipramine",
+      "drug_id": "RxNorm:2597",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Clomipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "iloperidone",
+      "drug_id": "RxNorm:73178",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "labetalol",
+      "drug_id": "RxNorm:6185",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "meclizine",
+      "drug_id": "RxNorm:6676",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "mirabegron",
+      "drug_id": "RxNorm:1300786",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "lofexidine",
+      "drug_id": "RxNorm:28863",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "fluvoxamine",
+      "drug_id": "RxNorm:42355",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fluvoxamine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "metoprolol",
+      "drug_id": "RxNorm:6918",
+      "cpic_level": "B",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Metoprolol_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "desipramine",
+      "drug_id": "RxNorm:3247",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Desipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "doxepin",
+      "drug_id": "RxNorm:3638",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Doxepin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "hydrocodone",
+      "drug_id": "RxNorm:5489",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Hydrocodone_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "imipramine",
+      "drug_id": "RxNorm:5691",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Imipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "risperidone",
+      "drug_id": "RxNorm:35636",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "trimipramine",
+      "drug_id": "RxNorm:10834",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Trimipramine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "venlafaxine",
+      "drug_id": "RxNorm:39786",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Venlafaxine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "amoxapine",
+      "drug_id": "RxNorm:722",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "amphetamine",
+      "drug_id": "RxNorm:725",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "aripiprazole lauroxil",
+      "drug_id": "RxNorm:1673265",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "brexpiprazole",
+      "drug_id": "RxNorm:1658314",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "cevimeline",
+      "drug_id": "RxNorm:44281",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "clozapine",
+      "drug_id": "RxNorm:2626",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dextromethorphan",
+      "drug_id": "RxNorm:3289",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "donepezil",
+      "drug_id": "RxNorm:135447",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "flecainide",
+      "drug_id": "RxNorm:4441",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "gefitinib",
+      "drug_id": "RxNorm:328134",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "haloperidol",
+      "drug_id": "RxNorm:5093",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "metoclopramide",
+      "drug_id": "RxNorm:6915",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "mirtazapine",
+      "drug_id": "RxNorm:15996",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "perphenazine",
+      "drug_id": "RxNorm:8076",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "protriptyline",
+      "drug_id": "RxNorm:8886",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "thioridazine",
+      "drug_id": "RxNorm:10502",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "timolol",
+      "drug_id": "RxNorm:10600",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "valbenazine",
+      "drug_id": "RxNorm:1918219",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "zuclopenthixol",
+      "drug_id": "RxNorm:114176",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "aripiprazole",
+      "drug_id": "RxNorm:89013",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "propafenone",
+      "drug_id": "RxNorm:8754",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "methadone",
+      "drug_id": "RxNorm:6813",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "citalopram",
+      "drug_id": "RxNorm:2556",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Citalopram_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "darifenacin",
+      "drug_id": "RxNorm:136198",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dolasetron",
+      "drug_id": "RxNorm:68091",
+      "cpic_level": "C",
+      "pharmgkb_level": "4",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "duloxetine",
+      "drug_id": "RxNorm:72625",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "escitalopram",
+      "drug_id": "RxNorm:321988",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Escitalopram_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "fesoterodine",
+      "drug_id": "RxNorm:797195",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "fluoxetine",
+      "drug_id": "RxNorm:4493",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "flibanserin",
+      "drug_id": "RxNorm:1665509",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "galantamine",
+      "drug_id": "RxNorm:4637",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "methylphenidate",
+      "drug_id": "RxNorm:6901",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "modafinil",
+      "drug_id": "RxNorm:30125",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "olanzapine",
+      "drug_id": "RxNorm:61381",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "oxycodone",
+      "drug_id": "RxNorm:7804",
+      "cpic_level": "C",
+      "pharmgkb_level": "2A",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "palonosetron",
+      "drug_id": "RxNorm:70561",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "quinidine",
+      "drug_id": "RxNorm:9068",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "quinine",
+      "drug_id": "RxNorm:9071",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sertraline",
+      "drug_id": "RxNorm:36437",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sertraline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "terbinafine",
+      "drug_id": "RxNorm:37801",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tiotropium",
+      "drug_id": "RxNorm:69120",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "tolterodine",
+      "drug_id": "RxNorm:119565",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "acebutolol",
+      "drug_id": "RxNorm:149",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "bisoprolol",
+      "drug_id": "RxNorm:19484",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "betaxolol",
+      "drug_id": "RxNorm:1520",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "propranolol",
+      "drug_id": "RxNorm:8787",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "carvedilol",
+      "drug_id": "RxNorm:20352",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "nebivolol",
+      "drug_id": "RxNorm:31555",
+      "cpic_level": "C",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": null
+    }
+  ]
+}

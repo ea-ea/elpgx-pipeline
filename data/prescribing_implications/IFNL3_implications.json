@@ -1,0 +1,66 @@
+{
+  "gene": "IFNL3",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 3,
+  "level_a_pairs": 3,
+  "level_b_pairs": 0,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "peginterferon alfa-2a",
+          "drug_id": "RxNorm:120608",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": null
+        },
+        {
+          "drug": "peginterferon alfa-2b",
+          "drug_id": "RxNorm:253453",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": null
+        },
+        {
+          "drug": "ribavirin",
+          "drug_id": "RxNorm:9344",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": null
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: peginterferon alfa-2a, peginterferon alfa-2b, ribavirin. Genetic testing recommended before prescribing."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "peginterferon alfa-2a",
+      "drug_id": "RxNorm:120608",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "peginterferon alfa-2b",
+      "drug_id": "RxNorm:253453",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": null
+    },
+    {
+      "drug": "ribavirin",
+      "drug_id": "RxNorm:9344",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": null
+    }
+  ]
+}

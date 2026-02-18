@@ -1,0 +1,136 @@
+{
+  "gene": "UGT1A1",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 7,
+  "level_a_pairs": 2,
+  "level_b_pairs": 5,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "atazanavir",
+          "drug_id": "RxNorm:343047",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atazanavir_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "irinotecan",
+          "drug_id": "RxNorm:51499",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: atazanavir, irinotecan. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "raltegravir",
+          "drug_id": "RxNorm:719872",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "belinostat",
+          "drug_id": "RxNorm:1543543",
+          "cpic_level": "B",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "dolutegravir",
+          "drug_id": "RxNorm:1433868",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "nilotinib",
+          "drug_id": "RxNorm:662281",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "pazopanib",
+          "drug_id": "RxNorm:714438",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: raltegravir, belinostat, dolutegravir, nilotinib, pazopanib. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "atazanavir",
+      "drug_id": "RxNorm:343047",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Atazanavir_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "irinotecan",
+      "drug_id": "RxNorm:51499",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "raltegravir",
+      "drug_id": "RxNorm:719872",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "belinostat",
+      "drug_id": "RxNorm:1543543",
+      "cpic_level": "B",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dolutegravir",
+      "drug_id": "RxNorm:1433868",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "nilotinib",
+      "drug_id": "RxNorm:662281",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "pazopanib",
+      "drug_id": "RxNorm:714438",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+!build/elpgx.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+results/
+trace/
+timeline/
+report/
+
+# IDE and tool caches
+.elpgx_temp/
+ElPGx_ElifArslan/
+
+# Project specific
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+output/
+reports/
+
+# Large binary files
+lib/*.jar
+
+# Sample test data (large genomic files)
+sample_test_data/*.cram
+sample_test_data/*.cram.crai
+sample_test_data/*.fasta
+sample_test_data/*.fasta.fai
+sample_test_data/*.fasta.gz
+sample_test_data/*.fasta.gz.fai
+sample_test_data/*.fasta.gz.gzi
+sample_test_data/*.bam
+sample_test_data/*.bai
+sample_test_data/*_pgx_report.json
+# Keep small files needed for tests
+!sample_test_data/HG00100_expected_results.json
+!sample_test_data/HG002_expected_results.json
+!sample_test_data/*.dict
+!sample_test_data/README.md
+
+# Generated scripts (not part of the pipeline)
+scripts/generate_grch37_map.py

@@ -1,0 +1,136 @@
+{
+  "gene": "NAT2",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 8,
+  "level_a_pairs": 1,
+  "level_b_pairs": 5,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "hydralazine",
+          "drug_id": "RxNorm:5470",
+          "cpic_level": "A",
+          "pharmgkb_level": "3",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Hydralazine_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: hydralazine. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "amifampridine",
+          "drug_id": "RxNorm:2106338",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "amifampridine phosphate",
+          "drug_id": "RxNorm:2106337",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "procainamide",
+          "drug_id": "RxNorm:8700",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "sulfamethoxazole / trimethoprim",
+          "drug_id": "RxNorm:10831",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "3",
+          "has_guideline": false,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "sulfasalazine",
+          "drug_id": "RxNorm:9524",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: amifampridine, amifampridine phosphate, procainamide, sulfamethoxazole / trimethoprim, sulfasalazine. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "hydralazine",
+      "drug_id": "RxNorm:5470",
+      "cpic_level": "A",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Hydralazine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "amifampridine",
+      "drug_id": "RxNorm:2106338",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "amifampridine phosphate",
+      "drug_id": "RxNorm:2106337",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "procainamide",
+      "drug_id": "RxNorm:8700",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "sulfamethoxazole / trimethoprim",
+      "drug_id": "RxNorm:10831",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sulfasalazine",
+      "drug_id": "RxNorm:9524",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_Low-to-no_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "isoniazid",
+      "drug_id": "RxNorm:6038",
+      "cpic_level": "C",
+      "pharmgkb_level": "1B",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "isosorbide dinitrate",
+      "drug_id": "RxNorm:6058",
+      "cpic_level": "D",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    }
+  ]
+}

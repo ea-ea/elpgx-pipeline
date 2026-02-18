@@ -1,0 +1,45 @@
+{
+  "gene": "CACNA1S",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "activity_score_based": false,
+  "phenotype_by_activity_score": {},
+  "mappings": [
+    {
+      "diplotype": "Reference/Reference",
+      "phenotype": "Uncertain Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Normal Risk"
+    },
+    {
+      "diplotype": "c.3257G>A/Reference",
+      "phenotype": "Malignant Hyperthermia Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "c.3257G>A/c.3257G>A",
+      "phenotype": "Malignant Hyperthermia Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "c.520C>T/Reference",
+      "phenotype": "Malignant Hyperthermia Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "c.520C>T/c.3257G>A",
+      "phenotype": "Malignant Hyperthermia Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    },
+    {
+      "diplotype": "c.520C>T/c.520C>T",
+      "phenotype": "Malignant Hyperthermia Susceptibility",
+      "activity_score": null,
+      "ehr_priority": "Abnormal/Priority/High Risk"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "gene": "HLA-A",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 3,
+  "level_a_pairs": 1,
+  "level_b_pairs": 1,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "carbamazepine",
+          "drug_id": "RxNorm:2002",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Carbamazepine_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: carbamazepine. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "allopurinol",
+          "drug_id": "RxNorm:519",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "2B",
+          "has_guideline": false,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Allopurinol_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: allopurinol. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "carbamazepine",
+      "drug_id": "RxNorm:2002",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Carbamazepine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "allopurinol",
+      "drug_id": "RxNorm:519",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "2B",
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Allopurinol_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "oxcarbazepine",
+      "drug_id": "RxNorm:32624",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Oxcarbazepine_CDS_Flow_Chart.jpg"
+    }
+  ]
+}

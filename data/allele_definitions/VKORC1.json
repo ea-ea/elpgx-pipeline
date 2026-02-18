@@ -1,0 +1,60 @@
+{
+  "gene": "VKORC1",
+  "chromosome": "chr16",
+  "gene_tier": "group1",
+  "biomarker_type": "drug_target",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs9923231",
+      "chrom": "chr16",
+      "pos": 31096368,
+      "ref": "C",
+      "alt": "T",
+      "name": "-1639G>A",
+      "protein_location": "5' region"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "rs9923231 reference (C)",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.606691,
+        "American": 0.38394737,
+        "European": 0.58673954,
+        "East Asian": 0.13350892,
+        "Near Eastern": 0.5464213,
+        "Central/South Asian": 0.84355056,
+        "Sub-Saharan African": 0.89225763,
+        "African American/Afro-Caribbean": 0.89866716
+      }
+    },
+    {
+      "allele": "rs9923231 variant (T)",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.39330897,
+        "American": 0.6160526,
+        "European": 0.4132605,
+        "East Asian": 0.8664911,
+        "Near Eastern": 0.45357868,
+        "Central/South Asian": 0.15644945,
+        "Sub-Saharan African": 0.107742354,
+        "African American/Afro-Caribbean": 0.101332836
+      }
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

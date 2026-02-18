@@ -1,0 +1,9 @@
+{
+  "gene": "VKORC1",
+  "activity_score_based": false,
+  "mappings": [
+    {"diplotype": "GG", "phenotype": "Normal Sensitivity", "activity_score": null, "functional_status": "Normal Sensitivity"},
+    {"diplotype": "GA", "phenotype": "Intermediate Sensitivity", "activity_score": null, "functional_status": "Intermediate Sensitivity"},
+    {"diplotype": "AA", "phenotype": "High Sensitivity", "activity_score": null, "functional_status": "High Sensitivity"}
+  ]
+}

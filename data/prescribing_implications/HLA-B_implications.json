@@ -1,0 +1,184 @@
+{
+  "gene": "HLA-B",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 13,
+  "level_a_pairs": 6,
+  "level_b_pairs": 1,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "carbamazepine",
+          "drug_id": "RxNorm:2002",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Carbamazepine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "abacavir",
+          "drug_id": "RxNorm:190521",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Abacavir_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "allopurinol",
+          "drug_id": "RxNorm:519",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Allopurinol_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "phenytoin",
+          "drug_id": "RxNorm:8183",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Phenytoin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "fosphenytoin",
+          "drug_id": "RxNorm:72236",
+          "cpic_level": "A",
+          "pharmgkb_level": null,
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fosphenytoin_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "oxcarbazepine",
+          "drug_id": "RxNorm:32624",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Oxcarbazepine_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: carbamazepine, abacavir, allopurinol, phenytoin, fosphenytoin, oxcarbazepine. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "pazopanib",
+          "drug_id": "RxNorm:714438",
+          "cpic_level": "B/C",
+          "pharmgkb_level": null,
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: pazopanib. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "carbamazepine",
+      "drug_id": "RxNorm:2002",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Carbamazepine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "abacavir",
+      "drug_id": "RxNorm:190521",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Abacavir_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "allopurinol",
+      "drug_id": "RxNorm:519",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Allopurinol_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "phenytoin",
+      "drug_id": "RxNorm:8183",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Phenytoin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "fosphenytoin",
+      "drug_id": "RxNorm:72236",
+      "cpic_level": "A",
+      "pharmgkb_level": null,
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Fosphenytoin_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "oxcarbazepine",
+      "drug_id": "RxNorm:32624",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Oxcarbazepine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "pazopanib",
+      "drug_id": "RxNorm:714438",
+      "cpic_level": "B/C",
+      "pharmgkb_level": null,
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "carbimazole",
+      "drug_id": "RxNorm:2020",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "dapsone",
+      "drug_id": "RxNorm:3108",
+      "cpic_level": "C",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/G6PD_High_Risk_Drug_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "methazolamide",
+      "drug_id": "RxNorm:6826",
+      "cpic_level": "C",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "methimazole",
+      "drug_id": "RxNorm:6835",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "nevirapine",
+      "drug_id": "RxNorm:53654",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "propylthiouracil",
+      "drug_id": "RxNorm:8794",
+      "cpic_level": "C",
+      "pharmgkb_level": "3",
+      "has_guideline": false,
+      "flowchart": null
+    }
+  ]
+}

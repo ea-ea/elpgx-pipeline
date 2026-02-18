@@ -1,0 +1,96 @@
+{
+  "gene": "CYP2B6",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 5,
+  "level_a_pairs": 1,
+  "level_b_pairs": 3,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "efavirenz",
+          "drug_id": "RxNorm:195085",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Efavirenz_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: efavirenz. Genetic testing recommended before prescribing."
+    },
+    {
+      "level": "CPIC Level B",
+      "drugs": [
+        {
+          "drug": "bupropion",
+          "drug_id": "RxNorm:42347",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "2A",
+          "has_guideline": false,
+          "flowchart": null
+        },
+        {
+          "drug": "sertraline",
+          "drug_id": "RxNorm:36437",
+          "cpic_level": "B",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sertraline_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "nevirapine",
+          "drug_id": "RxNorm:53654",
+          "cpic_level": "B/C",
+          "pharmgkb_level": "2A",
+          "has_guideline": false,
+          "flowchart": null
+        }
+      ],
+      "summary": "Moderate gene-drug interactions with: bupropion, sertraline, nevirapine. Consider genetic testing for certain populations."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "efavirenz",
+      "drug_id": "RxNorm:195085",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Efavirenz_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "bupropion",
+      "drug_id": "RxNorm:42347",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "sertraline",
+      "drug_id": "RxNorm:36437",
+      "cpic_level": "B",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sertraline_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "nevirapine",
+      "drug_id": "RxNorm:53654",
+      "cpic_level": "B/C",
+      "pharmgkb_level": "2A",
+      "has_guideline": false,
+      "flowchart": null
+    },
+    {
+      "drug": "methadone",
+      "drug_id": "RxNorm:6813",
+      "cpic_level": "C",
+      "pharmgkb_level": "2A",
+      "has_guideline": true,
+      "flowchart": null
+    }
+  ]
+}

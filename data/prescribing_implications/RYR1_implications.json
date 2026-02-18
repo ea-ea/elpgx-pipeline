@@ -1,0 +1,130 @@
+{
+  "gene": "RYR1",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "total_drug_pairs": 7,
+  "level_a_pairs": 7,
+  "level_b_pairs": 0,
+  "implications": [
+    {
+      "level": "CPIC Level A",
+      "drugs": [
+        {
+          "drug": "succinylcholine",
+          "drug_id": "RxNorm:10154",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Succinylcholine_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "desflurane",
+          "drug_id": "RxNorm:27340",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Desflurane_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "enflurane",
+          "drug_id": "RxNorm:3920",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Enflurane_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "halothane",
+          "drug_id": "RxNorm:5095",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Halothane_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "isoflurane",
+          "drug_id": "RxNorm:6026",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Isoflurane_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "methoxyflurane",
+          "drug_id": "RxNorm:6857",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Methoxyflurane_CDS_Flow_Chart.jpg"
+        },
+        {
+          "drug": "sevoflurane",
+          "drug_id": "RxNorm:36453",
+          "cpic_level": "A",
+          "pharmgkb_level": "1A",
+          "has_guideline": true,
+          "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sevoflurane_CDS_Flow_Chart.jpg"
+        }
+      ],
+      "summary": "Strong gene-drug interactions with: succinylcholine, desflurane, enflurane, halothane, isoflurane, methoxyflurane, sevoflurane. Genetic testing recommended before prescribing."
+    }
+  ],
+  "all_drugs": [
+    {
+      "drug": "succinylcholine",
+      "drug_id": "RxNorm:10154",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Succinylcholine_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "desflurane",
+      "drug_id": "RxNorm:27340",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Desflurane_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "enflurane",
+      "drug_id": "RxNorm:3920",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Enflurane_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "halothane",
+      "drug_id": "RxNorm:5095",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Halothane_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "isoflurane",
+      "drug_id": "RxNorm:6026",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Isoflurane_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "methoxyflurane",
+      "drug_id": "RxNorm:6857",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Methoxyflurane_CDS_Flow_Chart.jpg"
+    },
+    {
+      "drug": "sevoflurane",
+      "drug_id": "RxNorm:36453",
+      "cpic_level": "A",
+      "pharmgkb_level": "1A",
+      "has_guideline": true,
+      "flowchart": "https://files.cpicpgx.org/images/flow_chart/Sevoflurane_CDS_Flow_Chart.jpg"
+    }
+  ]
+}

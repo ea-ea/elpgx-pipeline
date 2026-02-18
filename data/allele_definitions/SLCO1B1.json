@@ -1,0 +1,1324 @@
+{
+  "gene": "SLCO1B1",
+  "chromosome": "chr12",
+  "gene_tier": "group1",
+  "biomarker_type": "transporter",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [
+    {
+      "rsid": "rs4149056",
+      "chrom": "chr12",
+      "pos": 21178615,
+      "ref": "T",
+      "alt": "C",
+      "name": "37041T>C",
+      "protein_location": "p.V174A"
+    },
+    {
+      "rsid": "rs79135870",
+      "chrom": "chr12",
+      "pos": 21178957,
+      "ref": "A",
+      "alt": "G",
+      "name": "37383A>G",
+      "protein_location": "p.I222V"
+    },
+    {
+      "rsid": "rs11045852",
+      "chrom": "chr12",
+      "pos": 21196951,
+      "ref": "A",
+      "alt": "G",
+      "name": "55377A>G",
+      "protein_location": "p.I245V"
+    },
+    {
+      "rsid": "rs183501729",
+      "chrom": "chr12",
+      "pos": 21196975,
+      "ref": "C",
+      "alt": "T",
+      "name": "55401C>T",
+      "protein_location": "p.R253X"
+    },
+    {
+      "rsid": "rs11045853",
+      "chrom": "chr12",
+      "pos": 21196976,
+      "ref": "G",
+      "alt": "A",
+      "name": "55402G>A",
+      "protein_location": "p.R253Q"
+    },
+    {
+      "rsid": "rs72559747",
+      "chrom": "chr12",
+      "pos": 21200544,
+      "ref": "C",
+      "alt": "G",
+      "name": "58970C>G",
+      "protein_location": "p.P336R"
+    },
+    {
+      "rsid": "rs55901008",
+      "chrom": "chr12",
+      "pos": 21200595,
+      "ref": "T",
+      "alt": "C",
+      "name": "59021T>C",
+      "protein_location": "p.I353T"
+    },
+    {
+      "rsid": "rs59113707",
+      "chrom": "chr12",
+      "pos": 21202555,
+      "ref": "C",
+      "alt": "G",
+      "name": "60981C>G",
+      "protein_location": "p.F400L"
+    },
+    {
+      "rsid": "rs142965323",
+      "chrom": "chr12",
+      "pos": 21202664,
+      "ref": "G",
+      "alt": "A",
+      "name": "61090G>A",
+      "protein_location": "p.G437R"
+    },
+    {
+      "rsid": "rs72559748",
+      "chrom": "chr12",
+      "pos": 21205921,
+      "ref": "A",
+      "alt": "G",
+      "name": "64347A>G",
+      "protein_location": "p.D462G"
+    },
+    {
+      "rsid": "rs59502379",
+      "chrom": "chr12",
+      "pos": 21205999,
+      "ref": "G",
+      "alt": "C",
+      "name": "64425G>C",
+      "protein_location": "p.G488A"
+    },
+    {
+      "rsid": "rs74064213",
+      "chrom": "chr12",
+      "pos": 21206031,
+      "ref": "A",
+      "alt": "G",
+      "name": "64457A>G",
+      "protein_location": "p.I499V"
+    },
+    {
+      "rsid": "rs11045819",
+      "chrom": "chr12",
+      "pos": 21176879,
+      "ref": "C",
+      "alt": "A",
+      "name": "35305C>A",
+      "protein_location": "p.P155T"
+    },
+    {
+      "rsid": "rs77271279",
+      "chrom": "chr12",
+      "pos": 21176898,
+      "ref": "G",
+      "alt": "T",
+      "name": "35324G>T",
+      "protein_location": "splicing defect"
+    },
+    {
+      "rsid": "rs141467543",
+      "chrom": "chr12",
+      "pos": 21178612,
+      "ref": "A",
+      "alt": "G",
+      "name": "37038A>G",
+      "protein_location": "p.Y173C"
+    },
+    {
+      "rsid": "rs55737008",
+      "chrom": "chr12",
+      "pos": 21239113,
+      "ref": "A",
+      "alt": "G",
+      "name": "97539A>G",
+      "protein_location": "p.E667G"
+    },
+    {
+      "rsid": "rs200995543",
+      "chrom": "chr12",
+      "pos": 21239145,
+      "ref": "C",
+      "alt": "T",
+      "name": "97571C>T",
+      "protein_location": "p.H678Y"
+    },
+    {
+      "rsid": "rs200331427",
+      "chrom": "chr12",
+      "pos": 21178653,
+      "ref": "C",
+      "alt": "G",
+      "name": "37079C>G",
+      "protein_location": "p.P187A"
+    },
+    {
+      "rsid": "rs201722521",
+      "chrom": "chr12",
+      "pos": 21178926,
+      "ref": "A",
+      "alt": "G",
+      "name": "37352A>G",
+      "protein_location": "p.I211M"
+    },
+    {
+      "rsid": "rs756393362",
+      "chrom": "chr12",
+      "pos": 21200673,
+      "ref": "G",
+      "alt": "A",
+      "name": "59099G>A",
+      "protein_location": "splicing defect"
+    },
+    {
+      "rsid": "rs71581941",
+      "chrom": "chr12",
+      "pos": 21222355,
+      "ref": "C",
+      "alt": "T",
+      "name": "80781C>T",
+      "protein_location": "p.R580X"
+    },
+    {
+      "rsid": "rs200994482",
+      "chrom": "chr12",
+      "pos": 21224840,
+      "ref": "G",
+      "alt": "A",
+      "name": "83266G>A",
+      "protein_location": "splicing defect"
+    },
+    {
+      "rsid": "rs34671512",
+      "chrom": "chr12",
+      "pos": 21239042,
+      "ref": "A",
+      "alt": "C",
+      "name": "97468A>C",
+      "protein_location": "p.L643F"
+    },
+    {
+      "rsid": "rs56199088",
+      "chrom": "chr12",
+      "pos": 21239077,
+      "ref": "A",
+      "alt": "G",
+      "name": "97503A>G",
+      "protein_location": "p.D655G"
+    },
+    {
+      "rsid": "rs140790673",
+      "chrom": "chr12",
+      "pos": 21239158,
+      "ref": "C",
+      "alt": "T",
+      "name": "97584C>T",
+      "protein_location": "p.S682F"
+    },
+    {
+      "rsid": "rs2306282",
+      "chrom": "chr12",
+      "pos": 21176868,
+      "ref": "A",
+      "alt": "G",
+      "name": "35294A>G",
+      "protein_location": "p.N151S"
+    },
+    {
+      "rsid": "rs2306283",
+      "chrom": "chr12",
+      "pos": 21176804,
+      "ref": "A",
+      "alt": "G",
+      "name": "35230A>G",
+      "protein_location": "p.N130D"
+    },
+    {
+      "rsid": "rs185905373",
+      "chrom": "chr12",
+      "pos": 21141575,
+      "ref": "A",
+      "alt": "T",
+      "name": "1A>T",
+      "protein_location": "p.M1L"
+    },
+    {
+      "rsid": "rs556524705",
+      "chrom": "chr12",
+      "pos": 21172675,
+      "ref": "G",
+      "alt": "C",
+      "name": "31101G>C",
+      "protein_location": "p.S37T"
+    },
+    {
+      "rsid": "rs61760182",
+      "chrom": "chr12",
+      "pos": 21172735,
+      "ref": "G",
+      "alt": "A",
+      "name": "31161G>A",
+      "protein_location": "p.R57Q"
+    },
+    {
+      "rsid": "rs145144129",
+      "chrom": "chr12",
+      "pos": 21176871,
+      "ref": "G",
+      "alt": "C",
+      "name": "35297G>C",
+      "protein_location": "p.R152T"
+    },
+    {
+      "rsid": "rs1228465562",
+      "chrom": "chr12",
+      "pos": 21202553,
+      "ref": "T",
+      "alt": "G",
+      "name": "60979T>G",
+      "protein_location": "p.F400V"
+    },
+    {
+      "rsid": "rs139257324",
+      "chrom": "chr12",
+      "pos": 21172734,
+      "ref": "C",
+      "alt": "T",
+      "name": "31160C>T",
+      "protein_location": "p.R57W"
+    },
+    {
+      "rsid": "rs373327528",
+      "chrom": "chr12",
+      "pos": 21172776,
+      "ref": "G",
+      "alt": "A",
+      "name": "31202G>A",
+      "protein_location": "p.G71R"
+    },
+    {
+      "rsid": "rs56101265",
+      "chrom": "chr12",
+      "pos": 21172782,
+      "ref": "T",
+      "alt": "C",
+      "name": "31208T>C",
+      "protein_location": "p.F73L"
+    }
+  ],
+  "alleles": [
+    {
+      "allele": "*1",
+      "function": "Normal function",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "10601278",
+        "10644574",
+        "10358072",
+        "12811365",
+        "15116054",
+        "15226675",
+        "21245207",
+        "32961594"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": {
+        "American": 0.37,
+        "European": 0.4027496,
+        "Oceanian": 0.33999997,
+        "East Asian": 0.25522262,
+        "Near Eastern": 0.49,
+        "Central/South Asian": 0.46972018,
+        "Sub-Saharan African": 0.17130345,
+        "African American/Afro-Caribbean": 0.23000002
+      }
+    },
+    {
+      "allele": "*2",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*4",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*5",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": [
+        "11477075",
+        "32961594",
+        "21245207"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": {
+        "American": 0.0,
+        "European": 0.02040433,
+        "Oceanian": 0.0,
+        "East Asian": 0.0010003184,
+        "Near Eastern": 0.05,
+        "Central/South Asian": 0.004471154,
+        "Sub-Saharan African": 0.0,
+        "African American/Afro-Caribbean": 0.0
+      }
+    },
+    {
+      "allele": "*6",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*8",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*9",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595",
+        "16697742",
+        "16513443",
+        "33658230",
+        "40047317",
+        "39644095"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*10",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*11",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "12490595"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*14",
+      "function": "Increased function",
+      "activity_value": 1.5,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "22147369",
+        "23311897",
+        "24122874",
+        "18781850",
+        "24420746",
+        "31777781",
+        "20139798",
+        "32961594"
+      ],
+      "evidence_strength": "Strong",
+      "frequency": {
+        "American": null,
+        "European": 0.135571,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": 0.0,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*15",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "15970799",
+        "21245207",
+        "25350695",
+        "31220337"
+      ],
+      "evidence_strength": "Definitive",
+      "frequency": {
+        "American": 0.24,
+        "European": 0.15017298,
+        "Oceanian": 0.0,
+        "East Asian": 0.12453574,
+        "Near Eastern": 0.15,
+        "Central/South Asian": 0.065170676,
+        "Sub-Saharan African": 0.027934482,
+        "African American/Afro-Caribbean": 0.01
+      }
+    },
+    {
+      "allele": "*16",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "12811365",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0005718263,
+        "Oceanian": null,
+        "East Asian": 0.0045032115,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*19",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "15226675",
+        "22147369",
+        "29898760",
+        "23311897"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*20",
+      "function": "Increased function",
+      "activity_value": 1.5,
+      "defining_variants": [],
+      "citations": [
+        "15226675",
+        "22147369",
+        "23311897",
+        "32961594"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": 0.037392758,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*23",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": 0.0001,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0001,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*24",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*25",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*26",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0002,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0003,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*27",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*28",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*29",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*30",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*31",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "39511784"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*32",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*33",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*34",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369",
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*36",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "22147369"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": 0.0,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*37",
+      "function": "Normal function",
+      "activity_value": 1.0,
+      "defining_variants": [],
+      "citations": [
+        "32961594",
+        "32961019",
+        "11477075"
+      ],
+      "evidence_strength": "Strong",
+      "frequency": {
+        "American": 0.39,
+        "European": 0.25273752,
+        "Oceanian": 0.66,
+        "East Asian": 0.6147381,
+        "Near Eastern": 0.31,
+        "Central/South Asian": 0.46023798,
+        "Sub-Saharan African": 0.80076206,
+        "African American/Afro-Caribbean": 0.76
+      }
+    },
+    {
+      "allele": "*39",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "32082363",
+        "36964102"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*40",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "11477075",
+        "21245207",
+        "32961594"
+      ],
+      "evidence_strength": "No evidence",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*41",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "39511784",
+        "34887219",
+        "27602404",
+        "39644095",
+        "40047317",
+        "22232210",
+        "35631530"
+      ],
+      "evidence_strength": "Strong",
+      "frequency": {
+        "American": null,
+        "European": 0.0001,
+        "Oceanian": null,
+        "East Asian": 0.0,
+        "Near Eastern": null,
+        "Central/South Asian": 0.0,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*42",
+      "function": "Uncertain function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [
+        "33658230"
+      ],
+      "evidence_strength": "Inadequate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*43",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*44",
+      "function": "Unknown function",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": [],
+      "evidence_strength": "No evidence",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*45",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "38674010",
+        "32082363",
+        "36964102",
+        "39071607",
+        "25546334",
+        "40199401",
+        "37674011"
+      ],
+      "evidence_strength": "Moderate",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*47",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "33658230",
+        "11477075",
+        "32961594",
+        "21245207"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*48",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "22232210"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*49",
+      "function": "No function",
+      "activity_value": 0.0,
+      "defining_variants": [],
+      "citations": [
+        "22232210"
+      ],
+      "evidence_strength": "Limited",
+      "frequency": {
+        "American": null,
+        "European": null,
+        "Oceanian": null,
+        "East Asian": null,
+        "Near Eastern": null,
+        "Central/South Asian": null,
+        "Sub-Saharan African": null,
+        "African American/Afro-Caribbean": null
+      }
+    },
+    {
+      "allele": "*50",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*51",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*52",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*53",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*54",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*55",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*56",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*57",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    },
+    {
+      "allele": "*58",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [
+        {
+          "rsid": "rs4149056",
+          "chrom": "chr12",
+          "pos": 21178615,
+          "ref": "T",
+          "alt": "C",
+          "functional_impact": "decreased function"
+        }
+      ],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": null
+    }
+  ],
+  "defining_variants_source": "CPIC v1.24 key allele variants"
+}

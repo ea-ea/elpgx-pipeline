@@ -1,0 +1,169 @@
+{
+  "cpic_version": "v1.24",
+  "reference_build": "GRCh38",
+  "last_updated": "2026-02-13",
+  "genes": {
+    "CYP2C19": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr10",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA124",
+      "ncbi_id": "1557",
+      "ensembl_id": "ENSG00000165841"
+    },
+    "CYP2C9": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr10",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA126",
+      "ncbi_id": "1559",
+      "ensembl_id": "ENSG00000138109"
+    },
+    "CYP2D6": {
+      "tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr22",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA128",
+      "ncbi_id": "1565",
+      "ensembl_id": "ENSG00000100197"
+    },
+    "CYP3A5": {
+      "tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr7",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA131",
+      "ncbi_id": "1577",
+      "ensembl_id": "ENSG00000106258"
+    },
+    "VKORC1": {
+      "tier": "group1",
+      "biomarker_type": "drug_target",
+      "chromosome": "chr16",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA133787052",
+      "ncbi_id": "79001",
+      "ensembl_id": "ENSG00000167397"
+    },
+    "SLCO1B1": {
+      "tier": "group1",
+      "biomarker_type": "transporter",
+      "chromosome": "chr12",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA134865839",
+      "ncbi_id": "10599",
+      "ensembl_id": "ENSG00000134538"
+    },
+    "TPMT": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr6",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA356",
+      "ncbi_id": "7172",
+      "ensembl_id": "ENSG00000137364"
+    },
+    "NUDT15": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr13",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA134963132",
+      "ncbi_id": "55270",
+      "ensembl_id": "ENSG00000136159"
+    },
+    "DPYD": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr1",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA145",
+      "ncbi_id": "282617",
+      "ensembl_id": "ENSG00000188641"
+    },
+    "UGT1A1": {
+      "tier": "group1",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr2",
+      "cpic_level": "A",
+      "pharmgkb_id": "PA420",
+      "ncbi_id": "54658",
+      "ensembl_id": "ENSG00000241635"
+    },
+    "NAT2": {
+      "tier": "group3",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr8",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA18",
+      "ncbi_id": "10",
+      "ensembl_id": "ENSG00000156006"
+    },
+    "IFNL3": {
+      "tier": "group3",
+      "biomarker_type": "drug_target",
+      "chromosome": "chr19",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA134952671",
+      "ncbi_id": "282617",
+      "ensembl_id": "ENSG00000197110"
+    },
+    "G6PD": {
+      "tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chrX",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA28469",
+      "ncbi_id": "2539",
+      "ensembl_id": "ENSG00000160211"
+    },
+    "CYP2B6": {
+      "tier": "group2",
+      "biomarker_type": "metabolic_enzyme",
+      "chromosome": "chr19",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA123",
+      "ncbi_id": "1555",
+      "ensembl_id": "ENSG00000197408"
+    },
+    "CACNA1S": {
+      "tier": "group3",
+      "biomarker_type": "drug_target",
+      "chromosome": "chr1",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA85",
+      "ncbi_id": "779",
+      "ensembl_id": "ENSG00000081248"
+    },
+    "RYR1": {
+      "tier": "group3",
+      "biomarker_type": "drug_target",
+      "chromosome": "chr19",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA34896",
+      "ncbi_id": "6261",
+      "ensembl_id": "ENSG00000196218"
+    },
+    "HLA-A": {
+      "tier": "group4",
+      "biomarker_type": "hla",
+      "chromosome": "chr6",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA35055",
+      "ncbi_id": "3105",
+      "ensembl_id": "ENSG00000206503"
+    },
+    "HLA-B": {
+      "tier": "group4",
+      "biomarker_type": "hla",
+      "chromosome": "chr6",
+      "cpic_level": "B",
+      "pharmgkb_id": "PA35056",
+      "ncbi_id": "3106",
+      "ensembl_id": "ENSG00000234745"
+    }
+  }
+}

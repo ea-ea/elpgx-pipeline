@@ -1,0 +1,70 @@
+{
+  "gene": "HLA-B",
+  "chromosome": "chr6",
+  "gene_tier": "group4",
+  "biomarker_type": "hla",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [],
+  "alleles": [
+    {
+      "allele": "*15:02",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.0003047034,
+        "American": 0.0016976056,
+        "European": 6.5471584e-05,
+        "Oceanian": 0.0079676565,
+        "East Asian": 0.04558424,
+        "Near Eastern": 0.00020407543,
+        "Central/South Asian": 0.025917143,
+        "Sub-Saharan African": 0.0,
+        "African American/Afro-Caribbean": 0.0009856891
+      }
+    },
+    {
+      "allele": "*57:01",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.013904181,
+        "American": 0.024912989,
+        "European": 0.036044996,
+        "Oceanian": 0.015734065,
+        "East Asian": 0.009806251,
+        "Near Eastern": 0.02337437,
+        "Central/South Asian": 0.06814844,
+        "Sub-Saharan African": 0.006092622,
+        "African American/Afro-Caribbean": 0.006087779
+      }
+    },
+    {
+      "allele": "*58:01",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.013537052,
+        "American": 0.011914154,
+        "European": 0.0076844515,
+        "Oceanian": 0.014144436,
+        "East Asian": 0.06041846,
+        "Near Eastern": 0.018732347,
+        "Central/South Asian": 0.041933447,
+        "Sub-Saharan African": 0.04351446,
+        "African American/Afro-Caribbean": 0.038205802
+      }
+    }
+  ]
+}

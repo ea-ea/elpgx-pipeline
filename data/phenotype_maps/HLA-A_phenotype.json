@@ -1,0 +1,21 @@
+{
+  "gene": "HLA-A",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "activity_score_based": false,
+  "phenotype_by_activity_score": {},
+  "mappings": [
+    {
+      "diplotype": "*31:01 negative",
+      "phenotype": "*31:01 negative",
+      "activity_score": null,
+      "ehr_priority": "Routine/Low-Risk"
+    },
+    {
+      "diplotype": "*31:01 positive",
+      "phenotype": "*31:01 positive",
+      "activity_score": null,
+      "ehr_priority": "Priority/High-Risk"
+    }
+  ]
+}

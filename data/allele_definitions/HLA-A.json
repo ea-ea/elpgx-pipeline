@@ -1,0 +1,32 @@
+{
+  "gene": "HLA-A",
+  "chromosome": "chr6",
+  "gene_tier": "group4",
+  "biomarker_type": "hla",
+  "reference_allele": "*1",
+  "reference_build": "GRCh38",
+  "cpic_version": "v1.24",
+  "last_updated": "2026-02-13",
+  "sequence_locations": [],
+  "alleles": [
+    {
+      "allele": "*31:01",
+      "function": "Unknown",
+      "activity_value": null,
+      "defining_variants": [],
+      "citations": null,
+      "evidence_strength": null,
+      "frequency": {
+        "Latino": 0.04523886,
+        "American": 0.061688375,
+        "European": 0.026442025,
+        "Oceanian": 0.010846613,
+        "East Asian": 0.03451316,
+        "Near Eastern": 0.011130483,
+        "Central/South Asian": 0.03301915,
+        "Sub-Saharan African": 0.007987001,
+        "African American/Afro-Caribbean": 0.009934212
+      }
+    }
+  ]
+}

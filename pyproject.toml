@@ -1,0 +1,104 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "elpgx"
+version = "1.1.0"
+description = "ElPGx - Clinical Pharmacogenetics Analysis Pipeline for NGS data"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Elif Arslan", email = "elif.arslan@example.com"}
+]
+keywords = [
+    "pharmacogenetics",
+    "pgx",
+    "clinical",
+    "ngs",
+    "bioinformatics",
+    "drug-response",
+    "cpic",
+    "star-allele",
+    "diplotype"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Healthcare Industry",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+
+dependencies = [
+    "pysam>=0.22.0",
+    "pydantic>=2.0.0",
+    "cyvcf2>=0.30.0",
+    "jsonschema>=4.0.0",
+    "click>=8.0.0",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0.0",
+]
+gui = [
+    "tkinter",
+]
+build = [
+    "pyinstaller>=6.0.0",
+]
+
+[project.scripts]
+elpgx = "elpgx.cli:main"
+elpgx-gui = "elpgx.gui:main"
+
+[project.urls]
+Homepage = "https://github.com/ea-ea/elpgx-pipeline"
+Documentation = "https://github.com/ea-ea/elpgx-pipeline#readme"
+Repository = "https://github.com/ea-ea/elpgx-pipeline.git"
+Issues = "https://github.com/ea-ea/elpgx-pipeline/issues"
+Changelog = "https://github.com/ea-ea/elpgx-pipeline/blob/main/CHANGELOG.md"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["elpgx*"]
+
+[tool.setuptools.package-data]
+elpgx = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

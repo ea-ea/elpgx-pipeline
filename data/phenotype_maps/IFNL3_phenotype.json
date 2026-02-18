@@ -1,0 +1,9 @@
+{
+  "gene": "IFNL3",
+  "activity_score_based": false,
+  "mappings": [
+    {"diplotype": "favorable/favorable", "phenotype": "Favorable Response Likely", "activity_score": 2.0, "functional_status": "Favorable / Favorable"},
+    {"diplotype": "favorable/unfavorable", "phenotype": "Intermediate Response Likely", "activity_score": 1.0, "functional_status": "Favorable / Unfavorable"},
+    {"diplotype": "unfavorable/unfavorable", "phenotype": "Unfavorable Response Likely", "activity_score": 0.0, "functional_status": "Unfavorable / Unfavorable"}
+  ]
+}
