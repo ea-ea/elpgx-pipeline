@@ -295,6 +295,9 @@ pytest tests/unit/test_allele_caller.py -v
 - [PharmVar](https://www.pharmvar.org) - Pharmacogene Variation Consortium
 - [GATK](https://gatk.broadinstitute.org) - Genome Analysis Toolkit
 
-## License
+## Usage Notice
 
-MIT License - see [LICENSE](LICENSE) for details.
+This repository is provided solely for technical assignment evaluation purposes.
+All rights reserved. No permission is granted to copy, modify, distribute, or
+reuse this code outside the scope of the evaluation without explicit written
+permission from the author.
