@@ -296,7 +296,4 @@ pytest tests/unit/test_allele_caller.py -v
 
 ## Usage Notice
 
-This repository is provided solely for technical assignment evaluation purposes.
-All rights reserved. No permission is granted to copy, modify, distribute, or
-reuse this code outside the scope of the evaluation without explicit written
-permission from the author.
+This repository is shared exclusively for technical evaluation purposes. No license or rights are granted. All rights are reserved by the author, and any reuse, modification, or distribution of this code outside the evaluation requires explicit written permission.
