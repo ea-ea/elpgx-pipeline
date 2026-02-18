@@ -1,0 +1,18 @@
+##Remaining issues (small, but worth fixing)
+
+1) “Strict validation” should fail the pipeline, not just warn
+Right now, a schema validation failure prints WARNING and continues. In a clinical/production framing, if --strict_validation is enabled, this should sys.exit(1) to hard-fail the run.
+
+2) Provenance says “Docker digests” but I’m recording tags
+
+The module header comments say “Docker digests,” but the implementation records tags like elifffarslan/elpgx-python:${pipeline_version} and broadinstitute/gatk:4.5.0.0. Tags are not immutable; digests are. Either:
+- record digests, or
+- rename the field/description to “image tags (optionally digests)” to avoid over-claiming.
+
+3) pgx_db_hash isn’t actually hashing the PGx DB
+calculate_db_hash() currently hashes the gene tiers file only. That’s useful, but it’s not the “combined PGx database files” hash described in the schema/provenance intent. Ideally hash:
+- allele definitions
+- phenotype maps
+- implications tables
+- gene tiers config
+Right now, the value can change without the core DB changing (or vice versa).
